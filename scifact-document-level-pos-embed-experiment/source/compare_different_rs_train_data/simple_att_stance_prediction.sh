@@ -1,0 +1,12 @@
+CUDA_VISIBLE_DEVICES=1 nohup python -u fever_scifact_stance_paragraph_prediction.py \
+--repfile roberta-large \
+--corpus_file ../../data/para_scifact/corpus.jsonl \
+--test_file ../../data/para_scifact/claims_dev_tfidf_retrieved.jsonl \
+--dropout 0 \
+--bert_dim 1024 \
+--k 3 \
+--train_batch_size 2 \
+--eval_batch_size 25 \
+--max_seq_length 512 \
+--checkpoint ../../../../paragraphJointModel/fever_pretrained_para_stance_model/scifact_roberta_stance_paragraph.model \
+--output_dir ./model/arg_model_k3_use_ref > arg_model_k3_use_ref_predict.txt 2>&1 &

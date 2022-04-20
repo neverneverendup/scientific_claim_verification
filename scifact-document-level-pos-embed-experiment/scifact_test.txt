@@ -1,0 +1,748 @@
+Calcific aortic valve (AV) disease is known to be an inflammation-related process.	OBJECTIVE
+High-mobility group box-1 (HMGB1) protein and Toll-like receptor 4 (TLR4) have been reported to participate in several inflammatory diseases.	OBJECTIVE
+The purpose of the present study was to determine whether the HMGB1-TLR4 axis is involved in calcific AV disease, and to evaluate the effect of HMGB1, and its potential mechanisms, on the pro-osteogenic phenotype change of valvular interstitial cells (VICs).	OBJECTIVE
+Expression of HMGB1 and TLR4 in human calcific AVs was evaluated using immunohistochemical staining and immunoblotting.	METHODS
+Cultured VICs were used as an in vitro model.	METHODS
+The VICs were stimulated with HMGB1 for analysis, with versus without TLR4 small interfering ribonucleic acid (siRNA), c-Jun N-terminal kinase mitogen-activated protein kinase (JNK MAPK), and nuclear factor kappa-B (NF-κB) inhibitors.	METHODS
+Enhanced accumulation of HMGB1 and TLR4 was observed in calcific valves.	RESULTS
+Moreover, we found that HMGB1 induced high levels of pro-inflammatory cytokine production and promoted the osteoblastic differentiation and calcification of VICs.	RESULTS
+In addition, HMGB1 induced phosphorylation of JNK MAPK and NF-κB. However, these effects were markedly suppressed by siRNA silencing of TLR4.	RESULTS
+In addition, blockade of JNK MAPK and NF-κB phosphorylation prohibited HMGB1-induced production of pro-osteogenic factors, and mineralization of VICs.	RESULTS
+The HMGB1 protein may promote osteoblastic differentiation and calcification of VICs, through the TLR4-JNK-NF-κB signaling pathway.	CONCLUSIONS
+
+Neural networks that regulate binge eating remain to be identified, and effective treatments for binge eating are limited.	BACKGROUND
+We combined neuroanatomic, pharmacologic, electrophysiological, Cre-lox, and chemogenetic approaches to investigate the functions of 5-hydroxytryptamine (5-HT) 2C receptor (5-HT2CR) expressed by dopamine (DA) neurons in the regulation of binge-like eating behavior in mice.	METHODS
+We showed that 5-HT stimulates DA neural activity through a 5-HT2CR-mediated mechanism, and activation of this midbrain 5-HT→DA neural circuit effectively inhibits binge-like eating behavior in mice.	RESULTS
+Notably, 5-HT medications, including fluoxetine, d-fenfluramine, and lorcaserin (a selective 5-HT2CR agonist), act on 5-HT2CRs expressed by DA neurons to inhibit binge-like eating in mice.	RESULTS
+We identified the 5-HT2CR population in DA neurons as one potential target for antibinge therapies, and provided preclinical evidence that 5-HT2CR agonists could be used to treat binge eating.	CONCLUSIONS
+
+The 1987 American College of Rheumatology (ACR; formerly the American Rheumatism Association) classification criteria for rheumatoid arthritis (RA) have been criticised for their lack of sensitivity in early disease.	OBJECTIVE
+This work was undertaken to develop new classification criteria for RA.	OBJECTIVE
+A joint working group from the ACR and the European League Against Rheumatism developed, in three phases, a new approach to classifying RA.	METHODS
+The work focused on identifying, among patients newly presenting with undifferentiated inflammatory synovitis, factors that best discriminated between those who were and those who were not at high risk for persistent and/or erosive disease--this being the appropriate current paradigm underlying the disease construct 'RA'.	METHODS
+In the new criteria set, classification as 'definite RA' is based on the confirmed presence of synovitis in at least one joint, absence of an alternative diagnosis better explaining the synovitis, and achievement of a total score of 6 or greater (of a possible 10) from the individual scores in four domains: number and site of involved joints (range 0-5), serological abnormality (range 0-3), elevated acute-phase response (range 0-1) and symptom duration (two levels; range 0-1).	RESULTS
+This new classification system redefines the current paradigm of RA by focusing on features at earlier stages of disease that are associated with persistent and/or erosive disease, rather than defining the disease by its late-stage features.	CONCLUSIONS
+This will refocus attention on the important need for earlier diagnosis and institution of effective disease-suppressing therapy to prevent or minimise the occurrence of the undesirable sequelae that currently comprise the paradigm underlying the disease construct 'RA'.	CONCLUSIONS
+
+Although cigarette smoking, excessive alcohol drinking, obesity, and several other well-studied unhealthy lifestyle-related factors each have been linked to the risk of multiple chronic diseases and premature death, little is known about the combined impact on mortality outcomes, in particular among Chinese and other non-Western populations.	BACKGROUND
+The objective of this study was to quantify the overall impact of lifestyle-related factors beyond that of active cigarette smoking and alcohol consumption on all-cause and cause-specific mortality in Chinese women.	BACKGROUND
+We used data from the Shanghai Women's Health Study, an ongoing population-based prospective cohort study in China.	METHODS
+Participants included 71,243 women aged 40 to 70 years enrolled during 1996-2000 who never smoked or drank alcohol regularly.	METHODS
+A healthy lifestyle score was created on the basis of five lifestyle-related factors shown to be independently associated with mortality outcomes (normal weight, lower waist-hip ratio, daily exercise, never exposed to spouse's smoking, higher daily fruit and vegetable intake).	METHODS
+The score ranged from zero (least healthy) to five (most healthy) points.	METHODS
+During an average follow-up of 9 years, 2,860 deaths occurred, including 775 from cardiovascular disease (CVD) and 1,351 from cancer.	RESULTS
+Adjusted hazard ratios for mortality decreased progressively with an increasing number of healthy lifestyle factors.	RESULTS
+Compared to women with a score of zero, hazard ratios (95% confidence intervals) for women with four to five factors were 0.57 (0.44-0.74) for total mortality, 0.29 (0.16-0.54) for CVD mortality, and 0.76 (0.54-1.06) for cancer mortality.	RESULTS
+The inverse association between the healthy lifestyle score and mortality was seen consistently regardless of chronic disease status at baseline.	RESULTS
+The population attributable risks for not having 4-5 healthy lifestyle factors were 33% for total deaths, 59% for CVD deaths, and 19% for cancer deaths.	RESULTS
+In this first study, to our knowledge, to quantify the combined impact of lifestyle-related factors on mortality outcomes in Chinese women, a healthier lifestyle pattern-including being of normal weight, lower central adiposity, participation in physical activity, nonexposure to spousal smoking, and higher fruit and vegetable intake-was associated with reductions in total and cause-specific mortality among lifetime nonsmoking and nondrinking women, supporting the importance of overall lifestyle modification in disease prevention.	CONCLUSIONS
+Please see later in the article for the Editors' Summary.	CONCLUSIONS
+
+Since November 2009, WHO recommends that adults infected with HIV should initiate antiretroviral therapy (ART) at CD4+ cell counts of ≤350 cells/µl rather than ≤200 cells/µl.	BACKGROUND
+South Africa decided to adopt this strategy for pregnant and TB co-infected patients only.	BACKGROUND
+We estimated the impact of fully adopting the new WHO guidelines on HIV epidemic dynamics and associated costs.	BACKGROUND
+We used an established model of the transmission and control of HIV in specified sexual networks and healthcare settings.	METHODS
+We quantified the model to represent Hlabisa subdistrict, KwaZulu-Natal, South Africa.	METHODS
+We predicted the HIV epidemic dynamics, number on ART and program costs under the new guidelines relative to treating patients at ≤200 cells/µl for the next 30 years.	METHODS
+During the first five years, the new WHO treatment guidelines require about 7% extra annual investments, whereas 28% more patients receive treatment.	RESULTS
+Furthermore, there will be a more profound impact on HIV incidence, leading to relatively less annual costs after seven years.	RESULTS
+The resulting cumulative net costs reach a break-even point after on average 16 years.	RESULTS
+Our study strengthens the WHO recommendation of starting ART at ≤350 cells/µl for all HIV-infected patients.	CONCLUSIONS
+Apart from the benefits associated with many life-years saved, a modest frontloading appears to lead to net savings within a limited time-horizon.	CONCLUSIONS
+This finding is robust to alternative assumptions and foreseeable changes in ART prices and effectiveness.	CONCLUSIONS
+Therefore, South Africa should aim at rapidly expanding its healthcare infrastructure to fully embrace the new WHO guidelines.	CONCLUSIONS
+
+Aedes aegypti, the major vector of dengue viruses, often breeds in water storage containers used by households without tap water supply, and occurs in high numbers even in dense urban areas.	BACKGROUND
+We analysed the interaction between human population density and lack of tap water as a cause of dengue fever outbreaks with the aim of identifying geographic areas at highest risk.	BACKGROUND
+We conducted an individual-level cohort study in a population of 75,000 geo-referenced households in Vietnam over the course of two epidemics, on the basis of dengue hospital admissions (n = 3,013).	METHODS
+We applied space-time scan statistics and mathematical models to confirm the findings.	METHODS
+We identified a surprisingly narrow range of critical human population densities between around 3,000 to 7,000 people/km² prone to dengue outbreaks.	RESULTS
+In the study area, this population density was typical of villages and some peri-urban areas.	RESULTS
+Scan statistics showed that areas with a high population density or adequate water supply did not experience severe outbreaks.	RESULTS
+The risk of dengue was higher in rural than in urban areas, largely explained by lack of piped water supply, and in human population densities more often falling within the critical range.	RESULTS
+Mathematical modeling suggests that simple assumptions regarding area-level vector/host ratios may explain the occurrence of outbreaks.	RESULTS
+Rural areas may contribute at least as much to the dissemination of dengue fever as cities.	CONCLUSIONS
+Improving water supply and vector control in areas with a human population density critical for dengue transmission could increase the efficiency of control efforts.	CONCLUSIONS
+Please see later in the article for the Editors' Summary.	CONCLUSIONS
+
+Three quarter of endometrial carcinomas are treated at early stage.	BACKGROUND
+Still, 15 to 20% of these patients experience recurrence, with little effect from systemic therapies.	BACKGROUND
+Homo sapiens v-Ki-ras2 Kirsten rat sarcoma viral oncogenes homologue (KRAS) mutations have been reported to have an important role in tumorigenesis for human cancers, but there is limited knowledge regarding clinical relevance of KRAS status in endometrial carcinomas.	BACKGROUND
+We have performed a comprehensive and integrated characterisation of genome-wide expression related to KRAS mutations and copy-number alterations in primary- and metastatic endometrial carcinoma lesions in relation to clinical and histopathological data.	METHODS
+A primary investigation set and clinical validation set was applied, consisting of 414 primary tumours and 61 metastatic lesions totally.	METHODS
+Amplification and gain of KRAS present in 3% of the primary lesions and 18% of metastatic lesions correlated significantly with poor outcome, high International Federation of Gynaecology and Obstetrics stage, non-endometrioid subtype, high grade, aneuploidy, receptor loss and high KRAS mRNA levels, also found to be associated with aggressive phenotype.	RESULTS
+In contrast, KRAS mutations were present in 14.7% of primary lesions with no increase in metastatic lesions, and did not influence outcome, but was significantly associated with endometrioid subtype, low grade and obesity.	RESULTS
+These results support that KRAS amplification and KRAS mRNA expression, both increasing from primary to metastatic lesions, are relevant for endometrial carcinoma disease progression.	CONCLUSIONS
+
+Epidemiologic studies have found that overall obesity is positively related to endometrial cancer (EC) risk.	BACKGROUND
+However, data assessing the association between body fat distribution and risk of EC are still limited.	BACKGROUND
+We followed 51,948 women who first reported waist circumference (WC) and hip circumference in 1986 in the Nurses' Health Study.	METHODS
+Waist-to-hip ratio (WHR) was calculated.	METHODS
+During 24 years of follow-up, 449 incident invasive EC cases were diagnosed.	RESULTS
+In a multivariate analysis without adjusting for body mass index (BMI), the relative risks (RRs) for EC comparing extreme categories were 2.44 (95% confidence interval [CI] 1.72-3.45) for WC and 1.69 (95% CI=1.20-2.40) for WHR.	RESULTS
+However, after adjustment of BMI, those positive associations were substantially attenuated and no longer significant; RR=1.08 (95% CI=0.69-1.67) for WC and 1.15 (95% CI=0.81-1.64) for WHR, respectively.	RESULTS
+In our prospective cohort study, we found no independent association between body fat distribution and the risk of EC after adjustment for BMI.	CONCLUSIONS
+
+Colorectal cancer remains one of the most common malignant tumors worldwide.	BACKGROUND
+Colorectal cancer initiating cells (CCICs) are a small subpopulation responsible for malignant behaviors of colorectal cancer.	BACKGROUND
+Aberrant activation of the Wnt pathways regulates the self-renewal of CCIC.	BACKGROUND
+However, the underlying mechanism(s) remain poorly understood.	BACKGROUND
+Via retroviral library screening, we identified Nuclear Receptor-Interacting Protein 2 (NRIP2) as a novel interactor of the Wnt pathway from enriched colorectal cancer colosphere cells.	METHODS
+The expression levels of NRIP2 and retinoic acid-related orphan receptor β (RORβ) were further examined by FISH, qRT-PCR, IHC and Western blot.	METHODS
+NRIP2 overexpressed and knockdown colorectal cancer cells were produced to study the role of NRIP2 in Wnt pathway.	METHODS
+We also verified the binding between NRIP2 and RORβ and investigated the effect of RORβ on CCICs both in vitro and in vivo.	METHODS
+Genechip-scanning speculated downstream target HBP1.	METHODS
+Western blot, ChIP and luciferase reporter were carried to investigate the interaction between NRIP2, RORβ, and HBP1.	METHODS
+NRIP2 was significantly up-regulated in CCICs from both cell lines and primary colorectal cancer tissues.	RESULTS
+Reinforced expression of NRIP2 increased Wnt activity, while silencing of NRIP2 attenuated Wnt activity.	RESULTS
+The transcription factor RORβ was a key target through which NRIP2 regulated Wnt pathway activity.	RESULTS
+RORβ was a transcriptional enhancer of inhibitor HBP1 of the Wnt pathway.	RESULTS
+NRIP2 prevented RORβ to bind with downstream HBP1 promoter regions and reduced the transcription of HBP1.	RESULTS
+This, in turn, attenuated the HBP1-dependent inhibition of TCF4-mediated transcription.	RESULTS
+NRIP2 is a novel interactor of the Wnt pathway in colorectal cancer initiating cells.	CONCLUSIONS
+interactions between NRIP2, RORβ, and HBP1 mediate a new mechanism for CCIC self-renewal via the Wnt activity.	CONCLUSIONS
+
+Ongoing initiatives to filter online health searches exclude consumer-generated content from search returns, though its inferiority compared with professionally controlled content is not demonstrated.	BACKGROUND
+The antidepressant escitalopram and the antipsychotic quetiapine have ranked over the last 5 years as top-selling agents in their respective drug classes.	BACKGROUND
+Both drugs have various off-label mental health and non-mental health uses, ranging from the relief of insomnia and migraines to the treatment of severe developmental disorders.	BACKGROUND
+Our objective was to describe the most frequently reported effects of escitalopram and quetiapine in online consumer reviews, to compare them with effects described in professionally controlled commercial health websites, and to gauge the usability of online consumer medication reviews.	OBJECTIVE
+A stratified simple random sample of 960 consumer reviews was selected from all 6998 consumer reviews of the two drugs in 2 consumer-generated (www.askapatient.com and www.crazymeds.us) and 2 professionally controlled (www.webmd.com and www.revolutionhealth.com) health websites.	METHODS
+Professional medication descriptions included all standard information on the medications from the latter 2 websites.	METHODS
+All textual data were inductively coded for medication effects, and intercoder agreement was assessed.	METHODS
+Chi-square was used to test for associations between consumer-reported effects and website origination.	METHODS
+Consumers taking either escitalopram (n = 480) or quetiapine (n = 480) most frequently reported symptom improvement (30.4% or 146/480, 24.8% or 119/480) or symptom worsening (15.8% or 76/480, 10.2% or 49/480), changes in sleep (36% or 173/480, 60.6% or 291/480) and changes in weight and appetite (22.5% or 108/480, 30.8% or 148/480).	RESULTS
+More consumers posting reviews on consumer-generated rather than professionally controlled websites reported symptom worsening on quetiapine (17.3% or 38/220 versus 5% or 11/220, P < .001), while more consumers posting on professionally controlled websites reported symptom improvement (32.7% or 72/220 versus 21.4% or 47/220, P = .008).	RESULTS
+Professional descriptions more frequently listed physical adverse effects and warnings about suicidal ideation while consumer reviews emphasized effects disrupting daily routines and provided richer descriptions of effects in context.	RESULTS
+The most recent 20 consumer reviews on each drug from each website (n = 80) were comparable to the full sample of reviews in the frequency of commonly reported effects.	RESULTS
+Consumer reviews and professional medication descriptions generally reported similar effects of two psychotropic medications but differed in their descriptions and in frequency of reporting.	CONCLUSIONS
+Professional medication descriptions offer the advantage of a concise yet comprehensive listing of drug effects, while consumer reviews offer greater context and situational examples of how effects may manifest in various combinations and to varying degrees.	CONCLUSIONS
+The dispersion of consumer reviews across websites limits their integration, but a brief browsing strategy on the two target medications nonetheless retrieved representative consumer content.	CONCLUSIONS
+Current strategies for filtering online health searches to return only trusted or approved websites may inappropriately address the challenge to identify quality health sources on the Internet because such strategies unduly limit access to an entire complementary source for health information.	CONCLUSIONS
+
+The antioxidant acetylcysteine prevents acute contrast nephrotoxicity in patients with impaired renal function who undergo computed tomography scanning.	BACKGROUND
+However, its role in coronary angiography is unclear.	BACKGROUND
+To determine whether oral acetylcysteine prevents acute deterioration in renal function in patients with moderate renal insufficiency who undergo elective coronary angiography.	OBJECTIVE
+Prospective, randomized, double-blind, placebo-controlled trial conducted from May 2000 to December 2001 at the Grantham Hospital at the University of Hong Kong.	METHODS
+Two hundred Chinese patients aged mean (SD) 68 (6.5) years with stable moderate renal insufficiency (creatinine clearance <60 mL/min [1.00 mL/s]) who were undergoing elective coronary angiography with or without intervention.	METHODS
+Participants were randomly assigned to receive oral acetylcysteine(600 mg twice per day; n = 102) or matching placebo tablets (n = 98) on the day before and the day of angiography.	METHODS
+All patients received low-osmolality contrast agent.	METHODS
+Occurrence of more than a 25% increase in serum creatinine level within 48 hours after contrast administration; change in creatinine clearance and serum creatinine level.	METHODS
+Twelve control patients (12%) and 4 acetylcysteine patients (4%) developed a more than 25% increase in serum creatinine level within 48 hours after contrast administration (relative risk, 0.32; 95% confidence interval [CI], 0.10-0.96; P =.03).	RESULTS
+Serum creatinine was lower in the acetylcysteine group (1.22 mg/dL [107.8 micromol/L]; 95% CI, 1.11-1.33 mg/dL vs 1.38 mg/dL [122.9 micromol/L]; 95% CI, 1.27-1.49 mg/dL; P =.006) during the first 48 hours after angiography.	RESULTS
+Acetylcysteine treatment significantly increased creatinine clearance from 44.8 mL/min (0.75 mL/s) (95% CI, 42.7-47.6 mL/min) to 58.9 mL/min (0.98 mL/s) (95% CI, 55.6-62.3 mL/min) 2 days after the contrast administration (P<.001).	RESULTS
+The increase was not significant in the control group (from 42.1 to 44.1 mL/min [0.70 to 0.74 mL/s]; P =.15).	RESULTS
+The benefit of acetylcysteine was consistent among various patient subgroups and persistent for at least 7 days.	RESULTS
+There were no major treatment-related adverse events.	RESULTS
+Acetylcysteine protects patients with moderate chronic renal insufficiency from contrast-induced deterioration in renal function after coronary angiographic procedures, with minimal adverse effects and at a low cost.	CONCLUSIONS
+
+Historically, the main focus of studies of childhood mortality has been the infant and under-five mortality rates.	BACKGROUND
+Neonatal mortality (deaths <28 days of age) has received limited attention, although such deaths account for about 41% of all child deaths.	BACKGROUND
+To better assess progress, we developed annual estimates for neonatal mortality rates (NMRs) and neonatal deaths for 193 countries for the period 1990-2009 with forecasts into the future.	BACKGROUND
+We compiled a database of mortality in neonates and children (<5 years) comprising 3,551 country-years of information.	METHODS
+Reliable civil registration data from 1990 to 2009 were available for 38 countries.	METHODS
+A statistical model was developed to estimate NMRs for the remaining 155 countries, 17 of which had no national data.	METHODS
+Country consultation was undertaken to identify data inputs and review estimates.	METHODS
+In 2009, an estimated 3.3 million babies died in the first month of life-compared with 4.6 million neonatal deaths in 1990-and more than half of all neonatal deaths occurred in five countries of the world (44% of global livebirths): India 27.8% (19.6% of global livebirths), Nigeria 7.2% (4.5%), Pakistan 6.9% (4.0%), China 6.4% (13.4%), and Democratic Republic of the Congo 4.6% (2.1%).	RESULTS
+Between 1990 and 2009, the global NMR declined by 28% from 33.2 deaths per 1,000 livebirths to 23.9.	RESULTS
+The proportion of child deaths that are in the neonatal period increased in all regions of the world, and globally is now 41%.	RESULTS
+While NMRs were halved in some regions of the world, Africa's NMR only dropped 17.6% (43.6 to 35.9).	RESULTS
+Neonatal mortality has declined in all world regions.	CONCLUSIONS
+Progress has been slowest in the regions with high NMRs.	CONCLUSIONS
+Global health programs need to address neonatal deaths more effectively if Millennium Development Goal 4 (two-thirds reduction in child mortality) is to be achieved.	CONCLUSIONS
+
+Some studies have inferred that an epidemic of Kaposi sarcoma-associated herpesvirus (KSHV) infection in homosexual men in the United States occurred concurrently with that of human immunodeficiency virus (HIV), but there have been no direct measurements of KSHV prevalence at the beginning of the HIV epidemic.	BACKGROUND
+To determine the prevalence of KSHV infection in homosexual men in San Francisco, Calif, at the beginning of the HIV epidemic in 1978 and 1979 and to examine changes in prevalence of KSHV at time points from 1978 through 1996 in light of changes in sexual behavior.	OBJECTIVE
+DESIGN, SETTING, AND PARTICIPANTS Analysis of a clinic-based sample (n = 398) derived from the San Francisco City Clinic Cohort (ages 18-66 years) (n = 2666 for analyses herein) and from population-based samples from the San Francisco Men's Health Study (MHS) (ages 25-54 years) (n = 825 and 252) and the San Francisco Young Men's Health Study (YMHS) (ages 18-29 years) (n = 428-976, and 557); behavioral studies were longitudinal and KSHV prevalence studies were cross-sectional.	OBJECTIVE
+Antibodies against KSHV and HIV; sexual behaviors.	METHODS
+The prevalence of KSHV infection in 1978 and 1979 was 26.5% of 235 (a random sample) overall (weighted for HIV infection) vs 6.9% (128/1842) for HIV in the San Francisco City Clinic Cohort sample.	RESULTS
+The prevalence of KSHV infection remained essentially unchanged between an MHS sample of 252 in 1984 and 1985 (29.6%) and a YMHS sample of 557 in 1995 and 1996 (26.4%), while HIV prevalence dropped from 49.5% of 825 in 1984 and 1985 (MHS) to 17.6% of 428 in 1992 and 1993 (YMHS).	RESULTS
+The proportion of men practicing unprotected receptive anal intercourse with 1 or more partners declined from 54% to 11% during the 1984 through 1993 period (MHS) with similar though slightly higher values in the YMHS in 1992 and 1993; whereas for unprotected oral intercourse it ranged between 60% and 90% in the 1984 through 1996 period (MHS and YMHS).	RESULTS
+Infection with KSHV was already highly prevalent in homosexual men when the HIV epidemic began in San Francisco, and its prevalence has been maintained at a nearly constant level.	CONCLUSIONS
+Any declines in the incidence of Kaposi sarcoma do not appear to be caused by a decline in KSHV transmission.	CONCLUSIONS
+
+To investigate the association between antidepressant treatment and risk of several potential adverse outcomes in older people with depression and to examine risks by class of antidepressant, duration of use, and dose.	OBJECTIVE
+Cohort study of people aged 65 and over diagnosed as having depression.	METHODS
+570 general practices in the United Kingdom supplying data to the QResearch primary care database.	METHODS
+60,746 patients diagnosed as having a new episode of depression between the ages of 65 and 100 years from 1 January 1996 to 31 December 2007 and followed up until 31 December 2008.	METHODS
+Hazard ratios associated with antidepressant use for all cause mortality, attempted suicide/self harm, myocardial infarction, stroke/transient ischaemic attack, falls, fractures, upper gastrointestinal bleeding, epilepsy/seizures, road traffic accidents, adverse drug reactions, and hyponatraemia, adjusted for a range of potential confounding variables.	METHODS
+Hazard ratios were calculated for antidepressant class (tricyclic and related antidepressants, selective serotonin reuptake inhibitors, other antidepressants), dose, and duration of use and for commonly prescribed individual drugs.	METHODS
+54,038 (89.0%) patients received at least one prescription for an antidepressant during follow-up.	RESULTS
+A total of 1,398,359 antidepressant prescriptions were issued: 764,659 (54.7%) for selective serotonin reuptake inhibitors, 442,192 (31.6%) for tricyclic antidepressants, 2203 (0.2%) for monoamine oxidase inhibitors, and 189,305 (13.5%) for the group of other antidepressants.	RESULTS
+The associations with the adverse outcomes differed significantly between the antidepressant classes for seven outcomes.	RESULTS
+Selective serotonin reuptake inhibitors were associated with the highest adjusted hazard ratios for falls (1.66, 95% confidence interval 1.58 to 1.73) and hyponatraemia (1.52, 1.33 to 1.75) compared with when antidepressants were not being used.	RESULTS
+The group of other antidepressants was associated with the highest adjusted hazard ratios for all cause mortality (1.66, 1.56 to 1.77), attempted suicide/self harm (5.16, 3.90 to 6.83), stroke/transient ischaemic attack (1.37, 1.22 to 1.55), fracture (1.64, 1.46 to 1.84), and epilepsy/seizures (2.24, 1.60 to 3.15), compared with when antidepressants were not being used.	RESULTS
+Tricyclic antidepressants did not have the highest hazard ratio for any of the outcomes.	RESULTS
+Significantly different associations also existed between the individual drugs for the same seven outcomes; trazodone (tricyclic antidepressant), mirtazapine, and venlafaxine (both in the group of other antidepressants) were associated with the highest rates for some of these outcomes.	RESULTS
+Absolute risks over 1 year for all cause mortality were 7.04% for patients while not taking antidepressants, 8.12% for those taking tricyclic antidepressants, 10.61% for selective serotonin reuptake inhibitors, and 11.43% for other antidepressants.	RESULTS
+Selective serotonin reuptake inhibitors and drugs in the group of other antidepressants were associated with an increased risk of several adverse outcomes compared with tricyclic antidepressants.	CONCLUSIONS
+Among individual drugs, trazodone, mirtazapine, and venlafaxine were associated with the highest risks for some outcomes.	CONCLUSIONS
+As this is an observational study, it is susceptible to confounding by indication, channelling bias, and residual confounding, so differences in characteristics between patients prescribed different antidepressant drugs that could account for some of the associations between the drugs and the adverse outcomes may remain.	CONCLUSIONS
+Further research is needed to confirm these findings, but the risks and benefits of different antidepressants should be carefully evaluated when these drugs are prescribed to older people.	CONCLUSIONS
+
+Bariatric surgery is becoming a more widespread treatment for obesity.	BACKGROUND
+Comprehensive evidence of the long-term effects of contemporary surgery on a broad range of clinical outcomes in large populations treated in routine clinical practice is lacking.	BACKGROUND
+The objective of this study was to measure the association between bariatric surgery, weight, body mass index, and obesity-related co-morbidities.	BACKGROUND
+This was an observational retrospective cohort study using data from the United Kingdom Clinical Practice Research Datalink.	METHODS
+All 3,882 patients registered in the database and with bariatric surgery on or before 31 December 2014 were included and matched by propensity score to 3,882 obese patients without surgery.	METHODS
+The main outcome measures were change in weight and body mass index over 4 y; incident diagnoses of type 2 diabetes mellitus (T2DM), hypertension, angina, myocardial infarction (MI), stroke, fractures, obstructive sleep apnoea, and cancer; mortality; and resolution of hypertension and T2DM.	METHODS
+Weight measures were available for 3,847 patients between 1 and 4 mo, 2,884 patients between 5 and 12 mo, and 2,258 patients between 13 and 48 mo post-procedure.	METHODS
+ariatric surgery patients exhibited rapid weight loss for the first four postoperative months, at a rate of 4.98 kg/mo (95% CI 4.88-5.08).	RESULTS
+Slower weight loss was sustained to the end of 4 y. Gastric bypass (6.56 kg/mo) and sleeve gastrectomy (6.29 kg/mo) were associated with greater initial weight reduction than gastric banding (2.77 kg/mo).	RESULTS
+Protective hazard ratios (HRs) were detected for bariatric surgery for incident T2DM, 0.68 (95% CI 0.55-0.83); hypertension, 0.35 (95% CI 0.27-0.45); angina, 0.59 (95% CI 0.40-0.87);MI, 0.28 (95% CI 0.10-0.74); and obstructive sleep apnoea, 0.55 (95% CI 0.40-0.87).	RESULTS
+Strong associations were found between bariatric surgery and the resolution of T2DM, with a HR of 9.29 (95% CI 6.84-12.62), and between bariatric surgery and the resolution of hypertension, with a HR of 5.64 (95% CI 2.65-11.99).	RESULTS
+No association was detected between bariatric surgery and fractures, cancer, or stroke.	RESULTS
+Effect estimates for mortality found no protective association with bariatric surgery overall, with a HR of 0.97 (95% CI 0.66-1.43).	RESULTS
+The data used were recorded for the management of patients in primary care and may be subject to inaccuracy, which would tend to lead to underestimates of true relative effect sizes.	RESULTS
+Bariatric surgery as delivered in the UK healthcare system is associated with dramatic weight loss, sustained at least 4 y after surgery.	CONCLUSIONS
+This weight loss is accompanied by substantial improvements in pre-existing T2DM and hypertension, as well as a reduced risk of incident T2DM, hypertension, angina, MI, and obstructive sleep apnoea.	CONCLUSIONS
+Widening the availability of bariatric surgery could lead to substantial health benefits for many people who are morbidly obese.	CONCLUSIONS
+
+To investigate the expressions of survivin and Cyclooxygenase-2 (COX-2), and their possible correlations in the development of endometrial adenocarcinoma (EC).	OBJECTIVE
+We also looked at their association with classical prognostic factors in EC.	OBJECTIVE
+To our knowledge, this is the first time survivin expression is investigated in terms of its relation to COX-2 in the developmental pathway of EC.	OBJECTIVE
+Archived tissue samples of 50 EC, 30 endometrial hyperplasia and 20 proliferative endometrium were selected and immunohistochemically analyzed for survivin and COX-2 expression.	METHODS
+Both survivin and COX-2 were overexpressed in hyperplasia and endometrial adenocarcinoma cases compared to proliferative endometrium, which was statistically significant (p=0.01, p=0.02, respectively).	RESULTS
+Among EC cases, survivin and COX-2 were strongly positive in 38 (76%) and 30 (60%) patients, respectively.	RESULTS
+Furthermore, we found survivin and COX-2 to be positively correlated, which was also statistically significant (p=0.0001, r=0.46).	RESULTS
+Neither survivin nor COX-2 expression was correlated with classical prognostic factors of endometrial carcinoma such as myometrial invasion, grade or lymph node metastasis (p>0.05).	RESULTS
+Neither COX-2 nor survivin had an impact on overall survival (p>0.05).	RESULTS
+Both survivin and COX-2 are overexpressed, and they seem to be early events in the occurrence of EC.	CONCLUSIONS
+Moreover, protein products of these two genes are positively correlated.	CONCLUSIONS
+COX-2 and survivin might share a common molecular pathway or enhance each other's actions in the developmental pathway of EC.	CONCLUSIONS
+Molecular basis of such a relationship should be further investigated in endometrial carcinogenesis.	CONCLUSIONS
+
+Saphenous vein graft (VG) failure occurs more frequently compared with arterial grafts, and graft thrombosis represents the main cause of early occlusion.	BACKGROUND
+Because CD40-CD40L pathway CD40 represents a culprit link between local inflammation and coagulation cascade, we investigate the role of CD40 and its soluble ligand (sCD40L) in the immediate in vitro response of VG to arterial pressures, and the potential effects of Simvastatin (Merck Sharp&Dohme, White-house Station, NJ) supplementation.	BACKGROUND
+Samples of saphenous vein and of internal mammary artery (IMA) were obtained from sixteen patients without history of statin therapy.	METHODS
+Segments underwent pulsatile pressure distension and culture with or without supplementation of Simvastatin.	METHODS
+CD40 and sCD40L were assessed in tissue lysate and in culture supernatant, respectively.	METHODS
+sCD40L serum concentrations were also measured.	METHODS
+During the course of the experiment, the CD40 expression was significantly lower in IMA samples compared with both distended and not distended VG.	RESULTS
+Pressure distension up-regulated the production of CD40 in VG segments after 24 and 48 h. Statin supplementation significantly reduced the expression of CD40 in both venous (P < 0.001) and arterial samples (P < 0.001).	RESULTS
+This effect of Simvastatin was not affected by the treatment with L-NAME, but it was reversed by the addition of mevalonic acid.	RESULTS
+Mean sCD40L content in culture supernatants increased over time, suggesting that not only platelets but also the vessel wall is a source of CD40 and sCD40L.	RESULTS
+Simvastatin treatment modulates endothelial CD40-sCD40L in both venous and arterial grafts, and therefore may represent a useful tool in the pharmacological prevention of graft failure.	CONCLUSIONS
+
+To determine whether there are risk factors in a doctor's time at medical school that are associated with subsequent professional misconduct.	OBJECTIVE
+Matched case-control study.	METHODS
+Setting Records from medical schools and the General Medical Council (GMC).	METHODS
+59 doctors who had graduated from any one of eight medical schools in the United Kingdom in 1958-97 and had a proved finding of serious professional misconduct in GMC proceedings in 1999-2004 (cases); 236 controls (four for each case) were selected by systematic sampling from matching graduation cohorts.	METHODS
+Case-control status was revealed by the GMC after completion of data entry.	METHODS
+Odds ratios for being a "case," with multivariable conditional logistic regression of potential risk factors including pre-admission characteristics and progress during the course.	METHODS
+These data were obtained from anonymised copies of the students' progress files held by their original medical schools.	METHODS
+Univariate conditional logistic regression analysis found that cases were more likely to be men, to be of lower estimated social class, and to have had academic difficulties during their medical course, especially in the early years.	RESULTS
+Multivariable analysis showed that male sex (odds ratio 9.80, 95% confidence interval 2.43 to 39.44, P=0.001), lower social class (4.28, 1.52 to 12.09, P=0.006), and failure of early or preclinical examinations (5.47, 2.17 to 13.79, P<0.001) were independently associated with being a case.	RESULTS
+This small study suggests that male sex, a lower socioeconomic background, and early academic difficulties at medical school could be risk factors for subsequent professional misconduct.	CONCLUSIONS
+The findings are preliminary and should be interpreted with caution.	CONCLUSIONS
+Most doctors with risk factors will not come before the GMC's disciplinary panels.	CONCLUSIONS
+
+We previously reported that integrating antiretroviral therapy (ART) with tuberculosis treatment reduces mortality.	BACKGROUND
+However, the timing for the initiation of ART during tuberculosis treatment remains unresolved.	BACKGROUND
+We conducted a three-group, open-label, randomized, controlled trial in South Africa involving 642 ambulatory patients, all with tuberculosis (confirmed by a positive sputum smear for acid-fast bacilli), human immunodeficiency virus infection, and a CD4+ T-cell count of less than 500 per cubic millimeter.	METHODS
+Findings in the earlier-ART group (ART initiated within 4 weeks after the start of tuberculosis treatment, 214 patients) and later-ART group (ART initiated during the first 4 weeks of the continuation phase of tuberculosis treatment, 215 patients) are presented here.	METHODS
+At baseline, the median CD4+ T-cell count was 150 per cubic millimeter, and the median viral load was 161,000 copies per milliliter, with no significant differences between the two groups.	RESULTS
+The incidence rate of the acquired immunodeficiency syndrome (AIDS) or death was 6.9 cases per 100 person-years in the earlier-ART group (18 cases) as compared with 7.8 per 100 person-years in the later-ART group (19 cases) (incidence-rate ratio, 0.89; 95% confidence interval [CI], 0.44 to 1.79; P=0.73).	RESULTS
+However, among patients with CD4+ T-cell counts of less than 50 per cubic millimeter, the incidence rates of AIDS or death were 8.5 and 26.3 cases per 100 person-years, respectively (incidence-rate ratio, 0.32; 95% CI, 0.07 to 1.13; P=0.06).	RESULTS
+The incidence rates of the immune reconstitution inflammatory syndrome (IRIS) were 20.1 and 7.7 cases per 100 person-years, respectively (incidence-rate ratio, 2.62; 95% CI, 1.48 to 4.82; P<0.001).	RESULTS
+Adverse events requiring a switching of antiretroviral drugs occurred in 10 patients in the earlier-ART group and 1 patient in the later-ART group (P=0.006).	RESULTS
+Early initiation of ART in patients with CD4+ T-cell counts of less than 50 per cubic millimeter increased AIDS-free survival.	CONCLUSIONS
+Deferral of the initiation of ART to the first 4 weeks of the continuation phase of tuberculosis therapy in those with higher CD4+ T-cell counts reduced the risks of IRIS and other adverse events related to ART without increasing the risk of AIDS or death.	CONCLUSIONS
+(Funded by the U.S. President's Emergency Plan for AIDS Relief and others; SAPIT ClinicalTrials.gov number, NCT00398996.).	CONCLUSIONS
+
+& AIMS HBV covalently closed circular DNA (cccDNA), the replicative intermediate responsible for persistent HBV infection of hepatocytes, is the template for transcription of all viral mRNAs.	BACKGROUND
+Nuclear cccDNA accumulates as a stable episome organized into minichromosomes by histone and nonhistone proteins.	BACKGROUND
+In this study we investigated, by a newly developed sensitive and specific assay, the relationship between viral replication and HBV chromatin assembly, transcription, and interaction with viral and cellular regulatory proteins.	BACKGROUND
+To achieve this aim we coupled a quantitative chromatin immunoprecipitation (ChIP) technique to an established method that allows the amplification of virion-encapsidated HBV genomes after transfection of linear HBV DNA into human hepatoma HuH7 cells.	METHODS
+The cccDNA-ChIP technique was also applied to study HBV minichromosome transcriptional regulation in liver tissue from HBV-infected patients.	METHODS
+The use of anti-acetyl-H4/-H3 specific antibodies to immunoprecipitate transcriptionally active chromatin revealed that HBV replication is regulated by the acetylation status of the cccDNA-bound H3/H4 histones.	RESULTS
+Class I histone deacetylases inhibitors induced an evident increase of both cccDNA-bound acetylated H4 and HBV replication.	RESULTS
+Finally, histones hypoacetylation and histone deacetylase 1 recruitment onto the cccDNA in liver tissue correlated with low HBV viremia in hepatitis B patients.	RESULTS
+We developed a ChIP-based assay to analyze, in vitro and ex vivo, the transcriptional regulation of HBV cccDNA minichromosome.	CONCLUSIONS
+Our results provide new insights on the regulation of HBV replication and identify the enzymatic activities that modulate the acetylation of cccDNA-bound histones as new therapeutic targets for anti-HBV drugs.	CONCLUSIONS
+
+Glaucoma is the leading cause of global irreversible blindness.	OBJECTIVE
+Present estimates of global glaucoma prevalence are not up-to-date and focused mainly on European ancestry populations.	OBJECTIVE
+We systematically examined the global prevalence of primary open-angle glaucoma (POAG) and primary angle-closure glaucoma (PACG), and projected the number of affected people in 2020 and 2040.	OBJECTIVE
+Systematic review and meta-analysis.	METHODS
+Data from 50 population-based studies (3770 POAG cases among 140,496 examined individuals and 786 PACG cases among 112 398 examined individuals).	METHODS
+We searched PubMed, Medline, and Web of Science for population-based studies of glaucoma prevalence published up to March 25, 2013.	METHODS
+Hierarchical Bayesian approach was used to estimate the pooled glaucoma prevalence of the population aged 40-80 years along with 95% credible intervals (CrIs).	METHODS
+Projections of glaucoma were estimated based on the United Nations World Population Prospects.	METHODS
+Bayesian meta-regression models were performed to assess the association between the prevalence of POAG and the relevant factors.	METHODS
+Prevalence and projection numbers of glaucoma cases.	METHODS
+The global prevalence of glaucoma for population aged 40-80 years is 3.54% (95% CrI, 2.09-5.82).	RESULTS
+The prevalence of POAG is highest in Africa (4.20%; 95% CrI, 2.08-7.35), and the prevalence of PACG is highest in Asia (1.09%; 95% CrI, 0.43-2.32).	RESULTS
+In 2013, the number of people (aged 40-80 years) with glaucoma worldwide was estimated to be 64.3 million, increasing to 76.0 million in 2020 and 111.8 million in 2040.	RESULTS
+In the Bayesian meta-regression model, men were more likely to have POAG than women (odds ratio [OR], 1.36; 95% CrI, 1.23-1.52), and after adjusting for age, gender, habitation type, response rate, and year of study, people of African ancestry were more likely to have POAG than people of European ancestry (OR, 2.80; 95% CrI, 1.83-4.06), and people living in urban areas were more likely to have POAG than those in rural areas (OR, 1.58; 95% CrI, 1.19-2.04).	RESULTS
+The number of people with glaucoma worldwide will increase to 111.8 million in 2040, disproportionally affecting people residing in Asia and Africa.	CONCLUSIONS
+These estimates are important in guiding the designs of glaucoma screening, treatment, and related public health strategies.	CONCLUSIONS
+
+Analysis of fetal DNA in maternal plasma has recently been introduced as a new method for noninvasive prenatal diagnosis, particularly for the analysis of fetal genetic traits, which are absent from the maternal genome, e.g., RHD or Y-chromosome-specific sequences.	BACKGROUND
+To date, the analysis of other fetal genetic traits has been more problematic because of the overwhelming presence of maternal DNA sequences in the circulation.	BACKGROUND
+We examined whether different biochemical properties can be discerned between fetal and maternal circulatory DNA.	BACKGROUND
+Plasma DNA was examined by agarose gel electrophoresis.	METHODS
+The fractions of fetal and maternal DNA in size-fractionated fragments were assayed by real-time PCR.	METHODS
+The determination of paternally and maternally inherited fetal genetic traits was examined by use of highly polymorphic chromosome-21-specific microsatellite markers.	METHODS
+Size fractionation of circulatory DNA indicated that the major portion of cell-free fetal DNA had an approximate molecular size of <0.3 kb, whereas maternally derived sequences were, on average, considerably larger than 1 kb.	RESULTS
+Analysis of size-fractionated DNA (</=0.3 kb) from maternal plasma samples facilitated the ready detection of paternally and maternally inherited microsatellite markers.	RESULTS
+Circulatory fetal DNA can be enriched by size selection of fragment sizes less than approximately 0.3 kb.	CONCLUSIONS
+Such selection permits easier analysis of both paternally and maternally inherited DNA polymorphisms.	CONCLUSIONS
+
+Early childhood introduction of nutritional habits aimed at atherosclerosis prevention is compatible with normal growth, but its effect on neurological development is unknown.	BACKGROUND
+To analyze how parental counseling aimed at keeping children's diets low in saturated fat and cholesterol influences neurodevelopment during the first 5 years of life.	OBJECTIVE
+Randomized controlled trial conducted between February 1990 and November 1996.	METHODS
+Outpatient clinic of a university department in Turku, Finland.	METHODS
+A total of 1062 seven-month-old infants and their parents, recruited at well-baby clinics between 1990 and 1992.	METHODS
+At age 5 years, 496 children still living in the city of Turku were available to participate in neurodevelopmental testing.	METHODS
+Participants were randomly assigned to receive individualized counseling aimed at limiting the child's fat intake to 30% to 35% of daily energy, with a saturated:monounsaturated:polyunsaturated fatty acid ratio of 1:1:1 and a cholesterol intake of less than 200 mg/d (n = 540) or usual health education (control group, n = 522).	METHODS
+Nutrient intake, serum lipid concentrations, and neurological development at 5 years, among children in the intervention vs control groups.	METHODS
+Absolute and relative intakes of fat, saturated fatty acids, and cholesterol among children in the intervention group were markedly less than the respective values of control children.	RESULTS
+Mean (SD) percentages of daily energy at age 5 years for the intervention vs control groups were as follows: for total fat, 30.6% (4.5%) vs 33.4% (4.4%) (P<. 001); and for saturated fat, 11.7% (2.3%) vs 14.5% (2.4%) (P<.001).	RESULTS
+Mean intakes of cholesterol were 164.2 mg (60.1 mg) and 192.5 mg (71. 9 mg) (P<.001) for the intervention and control groups, respectively.	RESULTS
+Serum cholesterol concentrations were continuously 3% to 5% lower in children in the intervention group than in children in the control group.	RESULTS
+At age 5 years, mean (SD) serum cholesterol concentration of the intervention group was 4.27 (0.63) mmol/L (165 [24] mg/dL) and of the control group, 4.41 (0.74) mmol/L (170 [29] mg/dL) (P =.04).	RESULTS
+Neurological development of children in the intervention group was at least as good as that of children in the control group.	RESULTS
+Relative risks for children in the intervention group to fail tests of speech and language skills, gross motor functioning plus perception, and visual motor skills were 0.95 (90% confidence interval [CI], 0.60-1.49), 0.95 (90% CI, 0.58-1.55), and 0.65 (90% CI, 0.39-1.08), respectively (P =.85,.86, and.16, respectively, vs control children).	RESULTS
+Our data indicate that repeated child-targeted dietary counseling of parents during the first 5 years of a child's life lessens age-associated increases in children's serum cholesterol and is compatible with normal neurological development.	CONCLUSIONS
+JAMA.	CONCLUSIONS
+2000;284:993-1000	CONCLUSIONS
+
+Several studies have demonstrated that women with nonobstructive coronary disease have a high rate of subsequent investigations, rehospitalizations for recurrent chest pain, and repeat coronary angiography.	BACKGROUND
+The sex specificity of this finding is unclear.	BACKGROUND
+We therefore undertook an evaluation of sex differences in rehospitalization for acute coronary syndrome (ACS) or chest pain in patients with "angiographically normal" coronaries.	BACKGROUND
+A retrospective cohort study using prospectively collected angiographic and clinical data on all patients in British Columbia, Canada, presenting for their first cardiac catheterization with suspected ischemic heart disease but angiographically normal coronaries.	METHODS
+Among 32,856 patients, 7.1% of men versus 23.3% of women were angiographically normal (P < .001).	RESULTS
+Among angiographically normal patients, women were older and more likely to present with hypertension, prior stroke, chronic obstructive pulmonary disease, and peripheral vascular disease than men, but Canadian Cardiovascular Society class of angina did not vary by sex.	RESULTS
+Within 1 year, 1.0% died, (19 women, 18 men, P = .27) and 0.6% had a stroke (13 women, 9 men, P = .91).	RESULTS
+Readmission to hospital for ACS or chest pain requiring catheterization was significantly higher in women compared to men (adjusted OR 4.06; 95% CI 1.15-14.31).	RESULTS
+In a contemporary, population-based cohort presenting for cardiac catheterization for suspected ischemia, women with angiographically normal coronaries were >4 times more likely to be readmitted to hospital for ACS/chest pain within 180 days compared to men.	CONCLUSIONS
+The observed sex difference has important social and economic implications and suggests that traditional diagnostic methods may not be optimal for women.	CONCLUSIONS
+
+G-quadruplexes (G4s) are stable non-canonical DNA secondary structures consisting of stacked arrays of four guanines, each held together by Hoogsteen hydrogen bonds.	BACKGROUND
+Sequences with the ability to form these structures in vitro, G4 motifs, are found throughout bacterial and eukaryotic genomes.	BACKGROUND
+The budding yeast Pif1 DNA helicase, as well as several bacterial Pif1 family helicases, unwind G4 structures robustly in vitro and suppress G4-induced DNA damage in S. cerevisiae in vivo.	BACKGROUND
+We determined the genomic distribution and evolutionary conservation of G4 motifs in four fission yeast species and investigated the relationship between G4 motifs and Pfh1, the sole S. pombe Pif1 family helicase.	RESULTS
+Using chromatin immunoprecipitation combined with deep sequencing, we found that many G4 motifs in the S. pombe genome were associated with Pfh1.	RESULTS
+Cells depleted of Pfh1 had increased fork pausing and DNA damage near G4 motifs, as indicated by high DNA polymerase occupancy and phosphorylated histone H2A, respectively.	RESULTS
+In general, G4 motifs were underrepresented in genes.	RESULTS
+However, Pfh1-associated G4 motifs were located on the transcribed strand of highly transcribed genes significantly more often than expected, suggesting that Pfh1 has a function in replication or transcription at these sites.	RESULTS
+In the absence of functional Pfh1, unresolved G4 structures cause fork pausing and DNA damage of the sort associated with human tumors.	CONCLUSIONS
+
+Polar bears (Ursus maritimus) are among those species most susceptible to the rapidly changing arctic climate, and their survival is of global concern.	BACKGROUND
+Despite this, little is known about polar bear species history.	BACKGROUND
+Future conservation strategies would significantly benefit from an understanding of basic evolutionary information, such as the timing and conditions of their initial divergence from brown bears (U. arctos) or their response to previous environmental change.	BACKGROUND
+We used a spatially explicit phylogeographic model to estimate the dynamics of 242 brown bear and polar bear matrilines sampled throughout the last 120,000 years and across their present and past geographic ranges.	RESULTS
+Our results show that the present distribution of these matrilines was shaped by a combination of regional stability and rapid, long-distance dispersal from ice-age refugia.	RESULTS
+In addition, hybridization between polar bears and brown bears may have occurred multiple times throughout the Late Pleistocene.	RESULTS
+The reconstructed matrilineal history of brown and polar bears has two striking features.	CONCLUSIONS
+First, it is punctuated by dramatic and discrete climate-driven dispersal events.	CONCLUSIONS
+Second, opportunistic mating between these two species as their ranges overlapped has left a strong genetic imprint.	CONCLUSIONS
+In particular, a likely genetic exchange with extinct Irish brown bears forms the origin of the modern polar bear matriline.	CONCLUSIONS
+This suggests that interspecific hybridization not only may be more common than previously considered but may be a mechanism by which species deal with marginal habitats during periods of environmental deterioration.	CONCLUSIONS
+
+Recent studies in septic patients showed that adverse effects of hydroxyethyl starches (HESs) possibly outweigh their benefits in severely impaired physiological haemostasis.	BACKGROUND
+It remains unclear whether this also applies to patient populations that are less vulnerable.	BACKGROUND
+In this meta-analysis, we evaluated the impact of various HES generations on safety and efficacy endpoints in patients undergoing cardiac surgery.	BACKGROUND
+We searched the PubMed, Embase and Cochrane Central Register of Controlled Trials databases for randomised controlled trials (RCTs) in the English or German language comparing the use of HES to any other colloid or crystalloid during open heart surgery.	METHODS
+Blood loss and transfusion requirements were higher for older starches with mean molecular weights more than 200 kDa compared to other volume substitutes.	RESULTS
+In contrast, this effect was not observed with latest-generation tetrastarches (130/0.4), which performed even better when compared to albumin (blood loss of tetrastarch versus albumin: standardised mean difference (SMD), -0.34; 95% CI, -0.63, -0.05; P = 0.02; versus gelatin: SMD, -0.06; 95% CI, -0.20, 0.08; P = 0.39; versus crystalloids: SMD, -0.05; 95% CI, -0.20, 0.10; P = 0.54).	RESULTS
+Similar results were found for transfusion needs.	RESULTS
+Lengths of stay in the intensive care unit or hospital were significantly shorter with tetrastarches compared to gelatin (intensive care unit: SMD, -0.10; 95% CI, -0.15, -0.05; P = 0.0002) and crystalloids (hospital: SMD, -0.52; 95% CI, -0.90, -0.14; P = 0.007).	RESULTS
+In this meta-analysis of RCTs, we could not identify safety issues with tetrastarches compared with other colloid or crystalloid solutions in terms of blood loss, transfusion requirements or hospital length of stay in patients undergoing cardiac surgery.	CONCLUSIONS
+The safety data on coagulation with older starches raise some issues that need to be addressed in future trials.	CONCLUSIONS
+
+Although preterm delivery is a well-established risk factor for cerebral palsy (CP), preterm deliveries contribute only a minority of affected infants.	BACKGROUND
+There is little information on the relation of CP risk to gestational age in the term range, where most CP occurs.	BACKGROUND
+To determine whether timing of birth in the term and postterm period is associated with risk of CP.	OBJECTIVE
+DESIGN, SETTING, AND PARTICIPANTS Population-based follow-up study using the Medical Birth Registry of Norway to identify 1,682,441 singleton children born in the years 1967-2001 with a gestational age of 37 through 44 weeks and no congenital anomalies.	OBJECTIVE
+The cohort was followed up through 2005 by linkage to other national registries.	OBJECTIVE
+Absolute and relative risk of CP for children surviving to at least 4 years of age.	METHODS
+Of the cohort of term and postterm children, 1938 were registered with CP in the National Insurance Scheme.	RESULTS
+Infants born at 40 weeks had the lowest risk of CP, with a prevalence of 0.99/1000 (95% confidence interval [CI], 0.90-1.08).	RESULTS
+Risk for CP was higher with earlier or later delivery, with a prevalence at 37 weeks of 1.91/1000 (95% CI, 1.58-2.25) and a relative risk (RR) of 1.9 (95% CI, 1.6-2.4), a prevalence at 38 weeks of 1.25/1000 (95% CI, 1.07-1.42) and an RR of 1.3 (95% CI, 1.1-1.6), a prevalence at 42 weeks of 1.36/1000 (95% CI, 1.19-1.53) and an RR of 1.4 (95% CI, 1.2-1.6), and a prevalence after 42 weeks of 1.44 (95% CI, 1.15-1.72) and an RR of 1.4 (95% CI, 1.1-1.8).	RESULTS
+These associations were even stronger in a subset with gestational age based on ultrasound measurements: at 37 weeks the prevalence was 1.17/1000 (95% CI, 0.30-2.04) and the relative risk was 3.7 (95% CI, 1.5-9.1).	RESULTS
+At 42 weeks the prevalence was 0.85/1000 (95% CI, 0.33-1.38) and the relative risk was 2.4 (95% CI, 1.1-5.3).	RESULTS
+Adjustment for infant sex, maternal age, and various socioeconomic measures had little effect.	RESULTS
+Compared with delivery at 40 weeks' gestation, delivery at 37 or 38 weeks or at 42 weeks or later was associated with an increased risk of CP.	CONCLUSIONS
+
+Data on genetic susceptibility to sporadic gastric carcinoma have been published at a growing pace, but to date no comprehensive overview and quantitative summary has been available.	BACKGROUND
+We conducted a systematic review and meta-analysis of the evidence on the association between DNA variation and risk of developing stomach cancer.	METHODS
+To assess result credibility, summary evidence was graded according to the Venice criteria and false positive report probability (FPRP) was calculated to further validate result noteworthiness.	METHODS
+Meta-analysis was also conducted for subgroups, which were defined by ethnicity (Asian vs Caucasian), tumour histology (intestinal vs diffuse), tumour site (cardia vs non-cardia) and Helicobacter pylori infection status (positive vs negative).	METHODS
+Literature search identified 824 eligible studies comprising 2 530 706 subjects (cases: 261 386 (10.3%)) and investigating 2841 polymorphisms involving 952 distinct genes.	RESULTS
+Overall, we performed 456 primary and subgroup meta-analyses on 156 variants involving 101 genes.	RESULTS
+We identified 11 variants significantly associated with disease risk and assessed to have a high level of summary evidence: MUC1 rs2070803 at 1q22 (diffuse carcinoma subgroup), MTX1 rs2075570 at 1q22 (diffuse), PSCA rs2294008 at 8q24.2 (non-cardia), PRKAA1 rs13361707 5p13 (non-cardia), PLCE1 rs2274223 10q23 (cardia), TGFBR2 rs3087465 3p22 (Asian), PKLR rs3762272 1q22 (diffuse), PSCA rs2976392 (intestinal), GSTP1 rs1695 11q13 (Asian), CASP8 rs3834129 2q33 (mixed) and TNF rs1799724 6p21.3 (mixed), with the first nine variants characterised by a low FPRP.	RESULTS
+We also identified polymorphisms with lower quality significant associations (n=110).	RESULTS
+We have identified several high-quality biomarkers of gastric cancer susceptibility.	CONCLUSIONS
+These data will form the backbone of an annually updated online resource that will be integral to the study of gastric carcinoma genetics and may inform future screening programmes.	CONCLUSIONS
+
+Self-reported health status in underserved population of prisoners has not been extensively explored.	BACKGROUND
+The purposes of this cross-sectional study were to assess self-reported health, quality of life, and access to health services in a sample of male prisoners of Italy.	BACKGROUND
+A total of 908 prisoners received a self-administered anonymous questionnaire pertaining on demographic and detention characteristics, self-reported health status and quality of life, access to health services, lifestyles, and participation to preventive, social, and rehabilitation programs.	METHODS
+A total of 650 prisoners agreed to participate in the study and returned the questionnaire.	METHODS
+Respectively, 31.6% and 43.5% of prisoners reported a poor perceived health status and a poor quality of life, and 60% admitted that their health was worsened or greatly worsened during the prison stay.	RESULTS
+Older age, lower education, psychiatric disorders, self-reported health problems on prison entry, and suicide attempts within prison were significantly associated with a perceived worse health status.	RESULTS
+At the time of the questionnaire delivery, 30% of the prisoners self-reported a health problem present on prison entry and 82% present at the time of the survey.	RESULTS
+Most frequently reported health problems included dental health problems, arthritis or joint pain, eye problems, gastrointestinal diseases, emotional problems, and high blood pressure.	RESULTS
+On average, prisoners encountered general practitioners six times during the previous year, and the frequency of medical encounters was significantly associated with older age, sentenced prisoners, psychiatric disorders, and self-reported health problems on prison entry.	RESULTS
+The findings suggest that prisoners have a perceived poor health status, specific care needs and health promotion programs are seldom offered.	CONCLUSIONS
+Programs for correction of risk behaviour and prevention of long-term effects of incarceration on prisoners' health are strongly needed.	CONCLUSIONS
+
+To explore the association between a stable partnership and clinical outcome in HIV infected patients receiving highly active antiretroviral therapy (HAART).	OBJECTIVE
+Prospective cohort study of adults with HIV (Swiss HIV cohort study).	METHODS
+Seven outpatient clinics throughout Switzerland.	METHODS
+The 3736 patients in the cohort who started HAART before 2002 (median age 36 years, 29% female, median follow up 3.6 years).	METHODS
+Time to AIDS or death (primary endpoint), death alone, increases in CD4 cell count of at least 50 and 100 above baseline, optimal viral suppression (a viral load below 400 copies/ml), and viral rebound.	METHODS
+During follow up 2985 (80%) participants reported a stable partnership on at least one occasion.	RESULTS
+When starting HAART, 52% (545/1042) of participants reported a stable partnership; after five years of follow up 46% (190/412) of participants reported a stable partnership.	RESULTS
+In an analysis stratified by previous antiretroviral therapy and clinical stage when starting HAART (US Centers for Disease Control and Prevention group A, B, or C), the adjusted hazard ratio for progression to AIDS or death was 0.79 (95% confidence interval 0.63 to 0.98) for participants with a stable partnership compared with those without.	RESULTS
+Adjusted hazards ratios for other endpoints were 0.59 (0.44 to 0.79) for progression to death, 1.15 (1.06 to 1.24) for an increase in CD4 cells of 100 counts/microl or more, and 1.06 (0.98 to 1.14) for optimal viral suppression.	RESULTS
+A stable partnership is associated with a slower rate of progression to AIDS or death in HIV infected patients receiving HAART.	CONCLUSIONS
+
+According to willingness of the Ministry of Health, Iran and presence of appropriate conditions for disease elimination, national malaria control program decided to conduct a research to clarify malaria status in 2007 and to provide required information to perform the elimination program.	BACKGROUND
+This review is comprised of the basis of national malaria elimination program in vision of 2025, which was started in 2010.	BACKGROUND
+In this descriptive study, data were analyzed by applications of different variables at district level.	METHODS
+All districts in the three south eastern provinces, in which malaria has local transmission, were considered.	METHODS
+Malaria cases has been determined and studied based on the national malaria surveillance system.	METHODS
+Since vivax malaria is predominant in Sistan & Baluchestan Province, number of vivax cases is equal to malaria positive cases approximately.	RESULTS
+The important point is that Nikshahr contains the maximum number of local vivax cases in this province and the maximum number of falciparum cases is reported from Sarbaz district.	RESULTS
+Among all districts of Hormozgan Province, no case of autochthonous falciparum was detected except in Bandar Jask and one case in Minab.	RESULTS
+There was no case of autochthonous falciparum in Kerman Province, except in Kahnoj and Ghale Ganj that each of them had one case in 2007.	RESULTS
+It appears that the report of locally transmitted cases in Iran is increasing over the past few years, before starting malaria elimination plan.	CONCLUSIONS
+Since the Afghan refugees started to return to their own country so the main source of reporting of imported malaria cases reduced and local cases would be demonstrated more clearly.	CONCLUSIONS
+
+The aim of the study was to report the 2-year outcome after a displaced 3-part fracture of the proximal humerus in elderly patients randomized to treatment with a locking plate or nonoperative treatment.	BACKGROUND
+We included 60 patients, mean age 74 years (range, 56-92), 81% being women.	METHODS
+The main outcome measures were the Constant and Disabilities of the Arm, Shoulder and Hand (DASH) scores and the health-related quality of life (HRQoL) according to the EQ-5D.	METHODS
+At the final 2-year follow-up, the results for range of motion (ROM), function and HRQoL were all in favor of the locking plate group.	RESULTS
+The mean flexion in the locking plate group was 120° compared to 111° in the nonoperative group (P = .36) and the mean abduction was 114° compared to 106° (P = .28).	RESULTS
+The corresponding values for the Constant score were 61 versus 58 (P = .64), for DASH 26 versus 35 (P = .19), and the mean EQ-5D (index) score was 0.70 compared to 0.59 (P = .26).	RESULTS
+In spite of good primary reduction in 86% of the fractures in the locking plate group, 13% of the patients had a fracture complication requiring a major reoperation and 17% had a minor reoperation.	RESULTS
+The results of our study indicate an advantage in functional outcome and HRQoL in favor of the locking plate compared to nonoperative treatment in elderly patients with a displaced 3-part fracture of the proximal humerus, but at the cost of additional surgery in 30% of the patients.	CONCLUSIONS
+
+Tetracyclines such as doxycycline are reported to possess cytotoxic activity against mammalian tumor cells, but the mechanism of their effects on cell proliferation remains unclear.	BACKGROUND
+The antitumor effect of doxycycline was investigated in human pancreatic cancer cell line, PANC-1.	METHODS
+We also investigated the effect of doxycycline on expression of a potent proangiogenic factor, interleukin (IL)-8.	METHODS
+In excess of 20 microg/ml, cytotoxic effects of doxycycline were accompanied by G(1)-S cell cycle arrest and DNA fragmentation in PANC-1 cells.	RESULTS
+Doxycycline consistently activated transcription of p53, p21 and Fas/FasL-cascade-related genes, while reducing the expression of Bcl-xL and Mcl-1.	RESULTS
+Doxycycline (5 microg/ml) below the cytotoxic level suppressed endogenous and paclitaxel-induced IL-8 expression.	RESULTS
+In the mouse xenograft model, doxycycline treatment was shown to suppress tumor growth by 80%.	RESULTS
+These data suggest that doxycycline exerts its antitumor effect by activating proapoptotic genes, inhibiting IL-8 expression, and suppressing antiapoptotic genes.	CONCLUSIONS
+
+To determine the frequency of moderate and severe hypoglycemia and to identify clinical predictors associated with its occurrence in a large population-based sample of children and adolescents with IDDM.	OBJECTIVE
+A total of 657 patients (age: 12.1 +/-	METHODS
+4.4 years, mean +/-	METHODS
+SD) were included in the study, yielding 1,449 patient-years of data.	METHODS
+A prospective assessment of severe hypoglycemia (an event resulting in a seizure or coma) and moderate hypoglycemia (an event requiring assistance of another, excluding severe episodes) was made over a 3-year period.	METHODS
+Patients and caregivers detailed episodes of significant hypoglycemia (moderate and severe events) and these were recorded at each 3-month clinic visit along with HbA1c.	METHODS
+Data were analyzed using generalized estimating equation models fitted with the exchange correlation structure.	METHODS
+The overall incidence of severe events was 4.8/100 patient-years and of moderate events was 13.1/100 patient-years.	RESULTS
+Over 3 years, severe events occurred in 8.5% of children and moderate events occurred in 26.9%.	RESULTS
+Significant hypoglycemia was rare in the first 12 months after diagnosis.	RESULTS
+Rates of hypoglycemia were increased in children < 6 years of age versus > 6 years of age (40.9 vs. 16.6/100 patient-years, age < or = 6 years vs. age > 6 years, P < 0.001).	RESULTS
+Rates of hypoglycemia doubled when HbA1c fell below 8%, and children with HbA1c < 7% had a threefold increase in both moderate and severe hypoglycemia (e.g., severe episodes 14.9 vs. 4.1/100 patient-years, HbA1c < or = 7% vs. HbA1c > 7%, P < 0.001).	RESULTS
+Most severe events were seizures, and 75% of them occurred at night.	RESULTS
+The majority of events were related to missed meals or increased activity.	RESULTS
+However, in 38% no predisposing factor was evident.	RESULTS
+Newly diagnosed children appear to be protected from severe hypoglycemia.	CONCLUSIONS
+Rates increase with lower glycated hemoglobin, especially when mean HbA1c is < 8.0%.	CONCLUSIONS
+Younger children, who may be more susceptible to the adverse effects of neuroglycopenia, are at a particular risk of significant hypoglycemia.	CONCLUSIONS
+
+Control of blood pressure (BP) following renal transplantation may improve allograft and patient survival.	BACKGROUND
+Our aims were (i) to describe the distribution of BP and the prevalence of systolic and/or diastolic hypertension in children over the first 5 years following renal transplantation and (ii) to evaluate clinical risk factors and centre-specific factors associated with hypertension in this population.	BACKGROUND
+We conducted a retrospective case note review of all current paediatric kidney transplant patients in the UK, with data collected at 6 months, 1, 2 and 5 years following transplantation in subjects with hypertension (systolic and/or diastolic BP > 95th > ) and non-hypertensive subjects BP ≤ 95th > .	METHODS
+In total, 27.3% (117/428), 27.6% (118/428), 26.0% (95/365) and 25.6% (50/195) of the patients were hypertensive (systolic and/or diastolic BP > 95th > ) at 6 months, 1, 2 and 5 years following transplantation, respectively.	RESULTS
+A total of 58.4% of the patients at 6 months, 52.8% at 1 year, 48.2% at 2 years and 48.2% at 5 years were receiving anti-hypertensive therapy, of whom 31.6-36.6% remained hypertensive.	RESULTS
+When subjects were identified as being hypertensive, on anti-hypertensive medication or had untreated hypertension (systolic and/or diastolic BP > 95th > ), 66.4, 61.0, 56.4 and 55.9% of patients were hypertensive at 6 months, 1, 2 and 5 years, respectively.	RESULTS
+In a multivariate model, odds ratios for systolic hypertension were 4.16 (deceased versus living donor), 2.65 (lowest versus highest quartile of height z-score) and 2.07 (if on anti-hypertensive;	RESULTS
+yes versus no).	RESULTS
+There was significant variation in prevalent rates of hypertension between centres (P < 0.0001) that remained significant (P = 0.003) after adjustment for all the factors in the multivariate model.	RESULTS
+Control of BP after kidney transplantation remains sub-optimal in paediatric centres in the UK.	CONCLUSIONS
+Just over 25% of patients remain hypertensive 5 years following transplantation.	CONCLUSIONS
+Significant differences between centres remain unexplained and may reflect differences in assessment and management of hypertension.	CONCLUSIONS
+
+To provide an independent evaluation of seven day weighed dietary records, which are currently accepted as the most accurate technique for assessing habitual dietary intake in studies investigating the links between diet and health.	OBJECTIVE
+Subjects who had previously participated in the Northern Ireland diet and health study were reselected by stratified random sampling to represent the range of energy intakes in the study as assessed by the seven day weighed dietary record.	METHODS
+Northern Ireland.	METHODS
+31 Free living adults (16 men and 15 women).	OBJECTIVE
+Energy intake as measured by the seven day weighed dietary record and total energy expenditure estimated concurrently by the doubly labelled water technique.	METHODS
+Average recorded energy intakes were significantly lower than measured expenditure in the group overall (9.66 MJ/day v 12.15 MJ/day, 95% confidence interval 1.45 to 3.53 MJ/day).	RESULTS
+Among those in the upper third of energy intakes the mean (SE) ratio of intake to expenditure was close to 1.0, indicating accurate records (men 1.01 (0.11), women 0.96 (0.08].	RESULTS
+In the middle and lower thirds the ratios for men were only 0.74 (0.05) and 0.70 (0.07) respectively and for women 0.89 (0.07) and 0.61 (0.07).	RESULTS
+These results show a serious bias in reporting habitual energy intake.	CONCLUSIONS
+If substantiated they may have wide implications for the interpretation of many nutritional studies.	CONCLUSIONS
+
+To examine by immunohistochemistry the relative distributions of 6 matrix metalloproteinases (MMPs 1, 2, 3, 8, 9, and 13) and the 2 proinflammatory cytokines interleukin-1beta (IL-1beta) and tumor necrosis factor alpha (TNFalpha) in osteoarthritic (OA) cartilage compared with normal, age-matched articular cartilage.	OBJECTIVE
+Articular cartilage samples were obtained from the tibial plateau of OA knees removed at arthroplasty and from normal, nonarthritic, knees obtained at autopsy.	METHODS
+Specimens were promptly fixed in Carnoy's fixative, processed, embedded in paraffin, sectioned, and examined by immunohistochemistry for MMP and cytokine production.	METHODS
+In addition, human articular chondrocytes (HAC) were treated in vitro with either IL-1beta, TNFalpha, or phorbol myristate acetate (PMA) to assess their potential to produce each of the MMPs, as determined by Western blotting and gelatin zymography.	METHODS
+Immunodetection of the collagenases (MMPs 1, 8, and 13) and stromelysin 1 (MMP-3) was demonstrated in a proportion of chondrocytes in the superficial zone of almost all of the OA specimens that had degenerative matrix changes.	RESULTS
+The gelatinases (MMPs 2 and 9) were also demonstrated by immunohistochemistry but were not so prominent.	RESULTS
+IL-1beta- and TNFalpha-positive chondrocytes were also observed in a proportion of cells in the superficial zones of OA specimens.	RESULTS
+Much less immunostaining for MMPs and cytokines was observed in the deep zone of all OA specimens, where the cartilage matrix and chondrocyte morphology appeared normal.	RESULTS
+In contrast, full-thickness normal cartilage specimens showed virtually no immunostaining for these MMPs or cytokines.	RESULTS
+Confirmation that chondrocytes can produce these 6 MMPs was obtained from HAC cultures treated with either IL-1beta, TNFalpha, or PMA; conditioned medium from activated HAC contained all the MMPs demonstrated by immunohistochemistry.	RESULTS
+Dual immunolocalization studies of OA cartilage specimens demonstrated the coexpression of IL-1 with MMP-8 by individual chondrocytes in situ.	RESULTS
+These results indicate that the superficial zone of OA cartilage specimens, which is characterized by fibrillations, chondrocyte clusters, and degenerative matrix changes, contains a variable proportion of cells that immunostain for IL-1beta, TNFalpha, and 6 different MMPs.	CONCLUSIONS
+These observations support the concept that cytokine-MMP associations reflect a modified chondrocyte phenotype and an intrinsic process of cartilage degradation in OA.	CONCLUSIONS
+
+Funnel plots (plots of effect estimates against sample size) may be useful to detect bias in meta-analyses that were later contradicted by large trials.	OBJECTIVE
+We examined whether a simple test of asymmetry of funnel plots predicts discordance of results when meta-analyses are compared to large trials, and we assessed the prevalence of bias in published meta-analyses.	OBJECTIVE
+Medline search to identify pairs consisting of a meta-analysis and a single large trial (concordance of results was assumed if effects were in the same direction and the meta-analytic estimate was within 30% of the trial); analysis of funnel plots from 37 meta-analyses identified from a hand search of four leading general medicine journals 1993-6 and 38 meta-analyses from the second 1996 issue of the Cochrane Database of Systematic Reviews.	METHODS
+Degree of funnel plot asymmetry as measured by the intercept from regression of standard normal deviates against precision.	METHODS
+In the eight pairs of meta-analysis and large trial that were identified (five from cardiovascular medicine, one from diabetic medicine, one from geriatric medicine, one from perinatal medicine) there were four concordant and four discordant pairs.	RESULTS
+In all cases discordance was due to meta-analyses showing larger effects.	RESULTS
+Funnel plot asymmetry was present in three out of four discordant pairs but in none of concordant pairs.	RESULTS
+In 14 (38%) journal meta-analyses and 5 (13%) Cochrane reviews, funnel plot asymmetry indicated that there was bias.	RESULTS
+A simple analysis of funnel plots provides a useful test for the likely presence of bias in meta-analyses, but as the capacity to detect bias will be limited when meta-analyses are based on a limited number of small trials the results from such analyses should be treated with considerable caution.	CONCLUSIONS
+
+Patients with daily or near-daily headaches are commonly seen in neurology practices and in headache subspecialty centers, but there is little information on the prevalence of this condition in the general population.	OBJECTIVE
+We present the first US-based study describing the prevalence and characteristics of frequent headache in the general population.	OBJECTIVE
+In Baltimore County, Maryland, 13 343 individuals 18 to 65 years of age were selected by random-digit dialing and interviewed by telephone about their headaches.	METHODS
+Subjects reporting 180 or more headaches per year were classified as having frequent headache.	METHODS
+Three mutually exclusive subtypes of frequent headache were identified: frequent headache with migrainous features, chronic tension-type headache, and unclassified frequent headache.	METHODS
+The overall prevalence of frequent headache was 4.1% (5.0% female, 2.8% male; 1.8:1 female to male ratio).	RESULTS
+Frequent headache was 33% more common in Caucasians (4.4%) than in African Americans (3.3%).	RESULTS
+In both males and females, prevalence was highest in the lowest educational category.	RESULTS
+Among frequent headache sufferers, more than half (52% female, 56% male) met criteria for chronic tension-type headache, almost one third (33% female, 25% male) met criteria for frequent headache with migrainous features, and the remainder (15% female, 19% male) were unclassified.	RESULTS
+Overall, 30% of female and 25% of male frequent headache sufferers met International Headache Society (IHS) criteria for migraine (with or without aura).	RESULTS
+Frequent headache is common in the general population and is more prevalent in Caucasians and in those with less than a high school education.	CONCLUSIONS
+Chronic tension-type headache is more common than frequent headache with migrainous features, though the latter is more disabling.	CONCLUSIONS
+Although more common in females than males, the female preponderance of frequent headache is less marked than in migraine.	CONCLUSIONS
+The sex ratio varies by frequent headache subtype.	CONCLUSIONS
+
+BACKGROUND/AIMS There is only limited information on the prevalence and influence of coinfection with either hepatitis B or C on the clinical course in patients infected with the human immunodeficiency virus (HIV).	CONCLUSIONS
+Follow-up was available in 232 HIV-infected patients (age 37+/-8 years, CD4 count 167+/-167 microl; 46% had AIDS).	METHODS
+Samples were investigated for markers of HBV and HCV infection (HBsAg, HBeAg, HBV-DNA, Anti-HBs, anti-HBc, anti-HCV, HCV-RNA).	METHODS
+60/232 patients (23%) were anti-HCV positive.	RESULTS
+78% of these sera were positive for HCV-RNA.	RESULTS
+22/232 patients (9%) suffered from chronic HBV infection (HBsAg positive), 18/22 (82%) of these sera had detectable HBeAg and 19/22 (86%) HBV-DNA.	RESULTS
+Presence of HCV-RNA, HBeAg and amount of HBV-DNA were related to the degree of immunodeficiency.	RESULTS
+In contrast to the control group without HBV or HCV infection, patients infected with HIV and either HBV or HCV showed a direct correlation between a reduction in CD4 counts and decreased cholinesterase activity.	RESULTS
+In patients with AIDS, coinfection with HBV or HCV was associated with a reduced survival compared to controls (HBV: 212 days, 95%CI, 106-317; HCV: 267, 95%CI, 112-396; controls: 439 days, 95%CI, 364-513).	RESULTS
+Coinfection of HIV and HBV or HCV is frequently observed.	CONCLUSIONS
+Our results suggest that with prolonged survival of HIV-infected patients, coinfection with either HBV or HCV correlates with a reduced survival rate.	CONCLUSIONS
+
+Most patients with advanced pancreas cancer experience pain and must limit their daily activities because of tumor-related symptoms.	OBJECTIVE
+To date, no treatment has had a significant impact on the disease.	OBJECTIVE
+In early studies with gemcitabine, patients with pancreas cancer experienced an improvement in disease-related symptoms.	OBJECTIVE
+Based on those findings, a definitive trial was performed to assess the effectiveness of gemcitabine in patients with newly diagnosed advanced pancreas cancer.	OBJECTIVE
+One hundred twenty-six patients with advanced symptomatic pancreas cancer completed a lead-in period to characterize and stabilize pain and were randomized to receive either gemcitabine 1,000 mg/m2 weekly x 7 followed by 1 week of rest, then weekly x 3 every 4 weeks thereafter (63 patients), or to fluorouracil (5-FU) 600 mg/m2 once weekly (63 patients).	METHODS
+The primary efficacy measure was clinical benefit response, which was a composite of measurements of pain (analgesic consumption and pain intensity), Karnofsky performance status, and weight.	METHODS
+Clinical benefit required a sustained (> or = 4 weeks) improvement in at least one parameter without worsening in any others.	METHODS
+Other measures of efficacy included response rate, time to progressive disease, and survival.	METHODS
+Clinical benefit response was experienced by 23.8% of gemcitabine-treated patients compared with 4.8% of 5-FU-treated patients (P = .0022).	RESULTS
+The median survival durations were 5.65 and 4.41 months for gemcitabine-treated and 5-FU-treated patients, respectively (P = .0025).	RESULTS
+The survival rate at 12 months was 18% for gemcitabine patients and 2% for 5-FU patients.	RESULTS
+Treatment was well tolerated.	RESULTS
+This study demonstrates that gemcitabine is more effective than 5-FU in alleviation of some disease-related symptoms in patients with advanced, symptomatic pancreas cancer.	CONCLUSIONS
+Gemcitabine also confers a modest survival advantage over treatment with 5-FU.	CONCLUSIONS
+
+Limited information exists regarding the role of left ventricular function in predicting exercise capacity and impact on age- and sex-related differences.	BACKGROUND
+To determine the impact of measures of cardiac function assessed by echocardiography on exercise capacity and to determine if these associations are modified by sex or advancing age.	OBJECTIVE
+Cross-sectional study of patients undergoing exercise echocardiography with routine measurements of left ventricular systolic and diastolic function by 2-dimensional and Doppler techniques.	METHODS
+Analyses were conducted to determine the strongest correlates of exercise capacity and the age and sex interactions of these variables with exercise capacity.	METHODS
+Large tertiary referral center in Rochester, Minnesota, in 2006.	METHODS
+Patients undergoing exercise echocardiography using the Bruce protocol (N = 2867).	METHODS
+Patients with echocardiographic evidence of exercise-induced ischemia, ejection fractions lower than 50%, or significant valvular heart disease were excluded.	METHODS
+Exercise capacity in metabolic equivalents (METs).	METHODS
+Diastolic dysfunction was strongly and inversely associated with exercise capacity.	RESULTS
+Compared with normal function, after multivariate adjustment, those with moderate/severe resting diastolic dysfunction (-1.30 METs; 95% confidence interval [CI], -1.52 to -0.99; P < .001) and mild resting diastolic dysfunction (-0.70 METs; 95% CI, -0.88 to -0.46; P < .001) had substantially lower exercise capacity.	RESULTS
+Variation of left ventricular systolic function within the normal range was not associated with exercise capacity.	RESULTS
+Left ventricular filling pressures measured by resting E/e' of 15 or greater (-0.41 METs; 95% CI, -0.70 to -0.11; P = .007) or postexercise E/e' of 15 or greater (-0.41 METs; 95% CI, -0.71 to -0.11; P = .007) were similarly associated with a reduction in exercise capacity, each in separate multivariate analyses.	RESULTS
+Individuals with impaired relaxation (mild dysfunction) or resting E/e' of 15 or greater had a progressive increase in the magnitude of reduction in exercise capacity with advancing age (P < .001 and P = .02, respectively).	RESULTS
+Other independent correlates of exercise capacity were age (unstandardized beta coefficient, -0.85 METs; 95% CI, -0.92 to -0.77, per 10-year increment; P < .001), female sex (-1.98 METs; 95% CI, -2.15 to -1.84; P < .001), and body mass index greater than 30 (-1.24 METs; 95% CI, -1.41 to -1.10; P < .001).	RESULTS
+In this large cross-sectional study of those referred for exercise echocardiography and not limited by ischemia, abnormalities of left ventricular diastolic function were independently associated with exercise capacity.	CONCLUSIONS
+
+Therapies to target prostate cancer bone metastases have only limited effects.	OBJECTIVE
+New treatments are focused on the interaction between cancer cells, bone marrow cells and the bone matrix.	OBJECTIVE
+Osteoclasts play an important role in the development of bone tumors caused by prostate cancer.	OBJECTIVE
+Since Src kinase has been shown to be necessary for osteoclast function, we hypothesized that dasatinib, a Src family kinase inhibitor, would reduce osteoclast activity and prostate cancer (PC-3) cell-induced osteoclast formation.	OBJECTIVE
+Dasatinib inhibited RANKL-induced osteoclast differentiation of bone marrow-derived monocytes with an EC(50) of 7.5 nM. PC-3 cells, a human prostate cancer cell line, were able to differentiate RAW 264.7 cells, a murine monocytic cell line, into osteoclasts, and dasatinib inhibited this differentiation.	RESULTS
+In addition, conditioned medium from PC-3 cell cultures was able to differentiate RAW 264.7 cells into osteoclasts and this too, was inhibited by dasatinib.	RESULTS
+Even the lowest concentration of dasatinib, 1.25 nmol, inhibited osteoclast differentiation by 29%.	RESULTS
+Moreover, dasatinib inhibited osteoclast activity by 58% as measured by collagen 1 release.	RESULTS
+We performed in vitro experiments utilizing the Src family kinase inhibitor dasatinib to target osteoclast activation as a means of inhibiting prostate cancer bone metastases.	METHODS
+Dasatinib inhibits osteoclast differentiation of mouse primary bone marrow-derived monocytes and PC-3 cell-induced osteoclast differentiation.	CONCLUSIONS
+Dasatinib also inhibits osteoclast degradation activity.	CONCLUSIONS
+Inhibiting osteoclast differentiation and activity may be an effective targeted therapy in patients with prostate cancer bone metastases.	CONCLUSIONS
+
+Ketamine, as an anesthetic agent, has an anti-inflammatory effect.	BACKGROUND
+In the present study, we investigated whether ketamine inhibits release of high mobility group box 1 (HMGB1), a late-phase cytokine of sepsis, in lipopolysaccharide (LPS)-stimulated macrophages through heme oxygenase-1 (HO-1) induction.	BACKGROUND
+Macrophages were preincubated with various concentrations of ketamine and then treated with LPS (1 μg/mL).	METHODS
+The cell culture supernatants were collected to measure inflammatory mediators (HMGB1, nitric oxide, tumor necrosis factor-α, and interleukin 1β) by enzyme-linked immunosorbent assay.	METHODS
+Moreover, HO-1 protein expression, the phosphorylation and degradation of IκB-α, and the nuclear translocation of nuclear factor E2-related factor 2 and nuclear factor κB (NF-κB) p65 were tested by Western blot analysis.	METHODS
+In addition, to further identify the role of HO-1 in this process, tin protoporphyrin (SnPP), an HO-1 inhibitor, was used.	METHODS
+Ketamine treatment dose-dependently attenuated the increased levels of proinflammatory mediators (HMGB1, nitric oxide, tumor necrosis factor α, and interleukin 1β) and increased the HO-1 protein expression in LPS-activated macrophages.	RESULTS
+Furthermore, ketamine suppressed the phosphorylation and degradation of IκB-α as well as the LPS-stimulated nuclear translocation of NF-κB p65 in macrophages.	RESULTS
+In addition, the present study also demonstrated that ketamine induced HO-1 expression through the nuclear translocation of nuclear factor E2-related factor 2 in macrophages.	RESULTS
+The effects of ketamine on LPS-induced proinflammatory cytokines production were partially reversed by the HO inhibitor tin protoporphyrin (SnPP).	RESULTS
+Ketamine inhibits the release of HMGB1 in LPS-stimulated macrophages, and this effect is at least partly mediated by the activation of the Nrf2/HO-1 pathway and NF-κB suppression.	CONCLUSIONS
+
+Androgens play a critical role in the growth of both androgen dependent and castration-resistant prostate cancer (CRPC).	BACKGROUND
+Only a few micro-RNAs (miRNAs) have been suggested to be androgen regulated.	BACKGROUND
+We aim to identify androgen regulated miRNAs.	BACKGROUND
+We utilized LNCaP derived model, we have established, and which overexpresses the androgen receptor (AR), the VCaP cell line, and 13 intact-castrated prostate cancer (PC) xenograft pairs, as well as clinical specimens of untreated (PC) and CRPC.	METHODS
+The expression of miRNAs was analyzed by microarrays and quantitative RT-PCR (Q-RT-PCR).	METHODS
+Transfection of pre-miR-141 and anti-miR-141 was also used.	METHODS
+Seventeen miRNAs were > 1.5-fold up- or downregulated upon dihydrotestosterone (DHT) treatment in the cell lines, and 42 after castration in the AR-positive xenografts.	RESULTS
+Only four miRNAs (miR-10a, miR-141, miR-150*, and miR-1225-5p) showed similar androgen regulation in both cell lines and xenografts.	RESULTS
+Of those, miR-141 was found to be expressed more in PC and CRPC compared to benign prostate hyperplasia.	RESULTS
+Additionally, the overexpression of miR-141 enhanced growth of parental LNCaP cells while inhibition of miR-141 by anti-miR-141 suppressed the growth of the LNCaP subline overexpressing AR.	RESULTS
+Only a few miRNAs were found to be androgen-regulated in both cell lines and xenografts models.	CONCLUSIONS
+Of those, the expression of miR-141 was upregulated in cancer.	CONCLUSIONS
+The ectopic overexpression of miR-141 increased growth of LNCaP cell suggesting it may contribute to the progression of PC.	CONCLUSIONS
+
+& AIMS Celiac disease is characterized by disturbed jejunal crypt-villus axis biology with immunoglobulin (Ig) A deposits underlining the epithelium.	BACKGROUND
+The aim of this study was to test whether celiac disease serum IgA (reticulin/endomysial autoantibodies) interferes with the mesenchymal-epithelial cell cross-talk.	BACKGROUND
+Differentiation of T84 epithelial cells was induced with IMR-90 fibroblasts or transforming growth factor beta in three-dimensional collagen gel cultures.	METHODS
+The effects of purified celiac IgA and monoclonal tissue transglutaminase antibodies (CUB7402) were studied by adding the antibodies to the cocultures.	METHODS
+Active celiac disease IgA, reactive for tissue transglutaminase, significantly inhibited T84 epithelial cell differentiation (P < 0.001) and increased epithelial cell proliferation (P = 0.024).	RESULTS
+Similar effects were obtained with antibodies against tissue transglutaminase.	RESULTS
+Celiac disease-associated IgA class antibodies disturb transforming growth factor beta-mediated fibroblast-epithelial cell cross-talk in this in vitro crypt-villus axis model.	CONCLUSIONS
+This primary finding indicates that celiac disease-specific autoantibodies may also contribute to the formation of the gluten-triggered jejunal mucosal lesion in celiac disease.	CONCLUSIONS
+
+For decades silver-containing antibiotics such as silver sulfadiazine (SSD) have been applied as standard topical therapy for patients with partial-thickness burns and venous stasis ulcers.	BACKGROUND
+This evidence-based review intends to answer the following research question: in ambulatory patients with partial-thickness burns or stasis dermatitis ulcers, does the use of topical SSD compared with nonantibiotic dressings improve mortality, wound healing, re-epithelialization, or infection rates?	BACKGROUND
+MEDLINE, EMBASE, Cochrane Library, and other databases were searched.	METHODS
+We considered trials that enrolled patients of any age with partial-thickness burns or venous stasis ulcers and randomized them to either topical SSD or placebo, saline-soaked gauze, paraffin gauze, sterile dry dressing, or nonantibiotic moist dressing.	METHODS
+Outcomes included mortality, wound healing, speed of re-epithelialization, and infection rates.	METHODS
+For burns, our search revealed 400 potential articles.	RESULTS
+No human studies met the inclusion criteria.	RESULTS
+Only 7 animal studies (1 mouse, 4 rat, and 2 pig) were relevant to the proposed question.	RESULTS
+These animal studies provided conflicting results.	RESULTS
+Whereas some support the use of SSD for treatment of partial-thickness burns, others question its effectiveness.	RESULTS
+For stasis dermatitis ulcer, the search identified 50 articles for review, of which 20 abstracts were reviewed, and one article met the inclusion criteria.	RESULTS
+This study did not show any significant improvement in the rate of complete healing in SSD group compared with placebo either at 4 weeks (relative risk 6.2, 95% confidence interval 0.8-48) or at 1 year (relative risk 5.2, 95% confidence interval 0.6-41.6) of follow-up.	RESULTS
+There is insufficient evidence to either support or refute the routine use of SSD for ambulatory patients with either partial-thickness burns or stasis dermatitis ulcers to decrease mortality, prevent infection, or augment wound healing in human beings.	CONCLUSIONS
+
+The echinoderm microtubule-associated protein like 4-anaplastic lymphoma kinase (EML4-ALK) fusion represents a novel target in a subset of non-small cell lung cancer, especially adenocarcinoma.	BACKGROUND
+EML4-ALK fusion is mutually exclusive with epidermal growth factor receptor (EGFR) mutations.	BACKGROUND
+To understand the impact of EML4-ALK on the prognosis of non-small cell lung cancer, we examined EML4-ALK fusion in lung adenocarcinoma from patients with wild-type EGFR and analyzed their clinical treatment outcomes.	BACKGROUND
+Lung adenocarcinoma patients with malignant pleural effusions having wild-type EGFR and measurable target lesions were enrolled for EML4-ALK analysis by reverse transcription-polymerase chain reaction and direct sequencing.	METHODS
+Demographic data, EML4-ALK status, and survival data were analyzed.	METHODS
+We also performed fluorescence in situ hybridization on some available tumor samples to validate the PCR result.	METHODS
+In addition, K-ras mutation was analyzed for patients without EML4-ALK fusion genes.	METHODS
+A total of 116 patients with wild-type EGFR sequencing results had complete clinical data for analysis.	RESULTS
+No patients received ALK inhibitor therapy.	RESULTS
+There were 39 patients (34%) with the EML4-ALK fusion gene.	RESULTS
+The concordance rate between reverse transcription-polymerase chain reaction and fluorescence in situ hybridization was 85%.	RESULTS
+The K-ras mutation rate for patients without EML4-ALK fusion gene was 6.5%.	RESULTS
+By multivariate analysis, patients who had better performance status (p < 0.001) and EML4-ALK translocation (p = 0.017) had longer overall survival.	RESULTS
+Comparing patients with tumors harboring variant 1 with those harboring nonvariant 1 EML4-ALK fusion genes, there were no significant differences in clinical factors and survival outcome.	RESULTS
+For lung adenocarcinoma patients with wild-type EGFR, EML4-ALK translocation is associated with longer overall survival.	CONCLUSIONS
+
+Patients with human immunodeficiency virus (HIV) infection and tuberculosis have an increased risk of death, treatment failure, and relapse.	BACKGROUND
+A systematic review and meta-analysis of randomized, controlled trials and cohort studies was conducted to evaluate the impact of duration and dosing schedule of rifamycin and use of antiretroviral therapy in the treatment of active tuberculosis in HIV-positive patients.	METHODS
+In included studies, the initial tuberculosis diagnosis, failure, and/or relapse were microbiologically confirmed, and patients received standardized rifampin- or rifabutin-containing regimens.	METHODS
+Pooled cumulative incidence of treatment failure, death during treatment, and relapse were calculated using random-effects models.	METHODS
+Multivariable meta-regression was performed using negative binomial regression.	METHODS
+After screening 5158 citations, 6 randomized trials and 21 cohort studies were included.	RESULTS
+Relapse was more common with regimens using 2 months rifamycin (adjusted risk ratio, 3.6; 95% confidence interval, 1.1-11.7) than with regimens using rifamycin for at least 8 months.	RESULTS
+Compared with daily therapy in the initial phase (n=3352 patients from 35 study arms), thrice-weekly therapy (n=211 patients from 5 study arms) was associated with higher rates of failure (adjusted risk ratio, 4.0; 95% confidence interval, 1.5-10.4) and relapse [adjusted risk ratio, 4.8; 95% confidence interval, 1.8-12.8).	RESULTS
+There were trends toward higher relapse rates if rifamycins were used for only 6 months, compared with > or =8 months, or if antiretroviral therapy was not used.	RESULTS
+This review raises serious concerns regarding current recommendations for treatment of HIV-tuberculosis coinfection.	CONCLUSIONS
+The data suggest that at least 8 months duration of rifamycin therapy, initial daily dosing, and concurrent antiretroviral therapy might be associated with better outcomes, but adequately powered randomized trials are urgently needed to confirm this.	CONCLUSIONS
+
+Type 1 diabetes results from T-cell-mediated destruction of β cells.	BACKGROUND
+Findings from preclinical studies and pilot clinical trials suggest that antithymocyte globulin (ATG) might be effective for reducing this autoimmune response.	BACKGROUND
+We assessed the safety and efficacy of rabbit ATG in preserving islet function in participants with recent-onset type 1 diabetes, and report here our 12-month results.	BACKGROUND
+For this phase 2, randomised, placebo-controlled, clinical trial, we enrolled patients with recent-onset type 1 diabetes, aged 12-35 years, and with a peak C-peptide of 0.4 nM or greater on mixed meal tolerance test from 11 sites in the USA.	METHODS
+We used a computer generated randomisation sequence to randomly assign patients (2:1, with permuted-blocks of size three or six and stratified by study site) to receive either 6.5 mg/kg ATG or placebo over a course of four days.	METHODS
+All participants were masked and initially managed by an unmasked drug management team, which managed all aspects of the study until month 3.	METHODS
+Thereafter, to maintain masking for diabetes management throughout the remainder of the study, participants received diabetes management from an independent, masked study physician and nurse educator.	METHODS
+The primary endpoint was the baseline-adjusted change in 2-h area under the curve C-peptide response to mixed meal tolerance test from baseline to 12 months.	METHODS
+Analyses were by intention to treat.	METHODS
+This is a planned interim analysis of an on-going trial that will run for 24 months of follow-up.	METHODS
+This study is registered with ClinicalTrials.gov, number NCT00515099.	METHODS
+Between Sept 10, 2007, and June 1, 2011, we screened 154 individuals, randomly allocating 38 to ATG and 20 to placebo.	RESULTS
+We recorded no between-group difference in the primary endpoint: participants in the ATG group had a mean change in C-peptide area under the curve of -0.195 pmol/mL (95% CI -0.292 to -0.098) and those in the placebo group had a mean change of -0.239 pmol/mL (-0.361 to -0.118) in the placebo group (p=0.591).	RESULTS
+All except one participant in the ATG group had both cytokine release syndrome and serum sickness, which was associated with a transient rise in interleukin-6 and acute-phase proteins.	RESULTS
+Acute T cell depletion occurred in the ATG group, with slow reconstitution over 12 months.	RESULTS
+However, effector memory T cells were not depleted, and the ratio of regulatory to effector memory T cells declined in the first 6 months and stabilised thereafter.	RESULTS
+ATG-treated patients had 159 grade 3-4 adverse events, many associated with T-cell depletion, compared with 13 in the placebo group, but we detected no between-group difference in incidence of infectious diseases.	RESULTS
+Our findings suggest that a brief course of ATG does not result in preservation of β-cell function 12 months later in patients with new-onset type 1 diabetes.	CONCLUSIONS
+Generalised T-cell depletion in the absence of specific depletion of effector memory T cells and preservation of regulatory T cells seems to be an ineffective treatment for type 1 diabetes.	CONCLUSIONS
+
+Weight loss is recommended for overweight or obese patients with type 2 diabetes on the basis of short-term studies, but long-term effects on cardiovascular disease remain unknown.	BACKGROUND
+We examined whether an intensive lifestyle intervention for weight loss would decrease cardiovascular morbidity and mortality among such patients.	BACKGROUND
+In 16 study centers in the United States, we randomly assigned 5145 overweight or obese patients with type 2 diabetes to participate in an intensive lifestyle intervention that promoted weight loss through decreased caloric intake and increased physical activity (intervention group) or to receive diabetes support and education (control group).	METHODS
+The primary outcome was a composite of death from cardiovascular causes, nonfatal myocardial infarction, nonfatal stroke, or hospitalization for angina during a maximum follow-up of 13.5 years.	METHODS
+The trial was stopped early on the basis of a futility analysis when the median follow-up was 9.6 years.	RESULTS
+Weight loss was greater in the intervention group than in the control group throughout the study (8.6% vs. 0.7% at 1 year; 6.0% vs. 3.5% at study end).	RESULTS
+The intensive lifestyle intervention also produced greater reductions in glycated hemoglobin and greater initial improvements in fitness and all cardiovascular risk factors, except for low-density-lipoprotein cholesterol levels.	RESULTS
+The primary outcome occurred in 403 patients in the intervention group and in 418 in the control group (1.83 and 1.92 events per 100 person-years, respectively; hazard ratio in the intervention group, 0.95; 95% confidence interval, 0.83 to 1.09; P=0.51).	RESULTS
+An intensive lifestyle intervention focusing on weight loss did not reduce the rate of cardiovascular events in overweight or obese adults with type 2 diabetes.	CONCLUSIONS
+(Funded by the National Institutes of Health and others; Look AHEAD ClinicalTrials.gov number, NCT00017953.).	CONCLUSIONS
+
+Gene expression profiling may be useful in examining differences underlying age- and sex-specific outcomes in non-small cell lung cancer (NSCLC).	BACKGROUND
+To describe clinically relevant differences in the underlying biology of NSCLC based on patient age and sex.	OBJECTIVE
+DESIGN, SETTING, AND PATIENTS Retrospective analysis of 787 patients with predominantly early stage NSCLC performed at Duke University, Durham, North Carolina, from July 2008 to June 2009.	OBJECTIVE
+Lung tumor samples with corresponding microarray and clinical data were used.	OBJECTIVE
+All patients were divided into subgroups based on age (< 70 vs > or = 70 years old) or sex.	OBJECTIVE
+Gene expression signatures representing oncogenic pathway activation and tumor biology/microenvironment status were applied to these samples to obtain patterns of activation/deregulation.	OBJECTIVE
+Patterns of oncogenic and molecular signaling pathway activation that are reproducible and correlate with 5-year recurrence-free patient survival.	METHODS
+Low- and high-risk patient clusters/cohorts were identified with the longest and shortest 5-year recurrence-free survival, respectively, within the age and sex NSCLC subgroups.	RESULTS
+These cohorts of NSCLC demonstrate similar patterns of pathway activation.	RESULTS
+In patients younger than 70 years, high-risk patients, with the shortest recurrence-free survival, demonstrated increased activation of the Src (25% vs 6%; P<.001) and tumor necrosis factor (76% vs 42%; P<.001) pathways compared with low-risk patients.	RESULTS
+High-risk patients aged 70 years or older demonstrated increased activation of the wound healing (40% vs 24%; P = .02) and invasiveness (64% vs 20%; P<.001) pathways compared with low-risk patients.	RESULTS
+In women, high-risk patients demonstrated increased activation of the invasiveness (99% vs 2%; P<.001) and STAT3 (72% vs 35%; P<.001) pathways while high-risk men demonstrated increased activation of the STAT3 (87% vs 18%; P<.001), tumor necrosis factor (90% vs 46%; P<.001), EGFR (13% vs 2%; P = .003), and wound healing (50% vs 22%; P<.001) pathways.	RESULTS
+Multivariate analyses confirmed the independent clinical relevance of the pathway-based subphenotypes in women (hazard ratio [HR], 2.02; 95% confidence interval [CI], 1.34-3.03; P<.001) and patients younger than 70 years (HR, 1.83; 95% CI, 1.24-2.71; P = .003).	RESULTS
+All observations were reproducible in split sample analyses.	RESULTS
+Among a cohort of patients with NSCLC, subgroups defined by oncogenic pathway activation profiles were associated with recurrence-free survival.	CONCLUSIONS
+These findings require validation in independent patient data sets.	CONCLUSIONS
+
+The study of soluble corin in the circulation before hypertensive disorders of pregnancy (HDP) has been limited.	OBJECTIVE
+Here we aimed to study serum soluble corin in mid pregnancy in patients with HDP and their age- and gestational weeks-matched controls.	OBJECTIVE
+Sixty-eight pairs of cases of HDP and controls were studied.	METHODS
+Blood samples were obtained in mid pregnancy between 16 and 20 gestational weeks.	METHODS
+Serum soluble corin was examined by enzyme-linked immunosorbent assay methods.	METHODS
+The relationship between serum soluble corin and HDP was examined using conditional logistic regression models.	METHODS
+Serum soluble corin in mid pregnancy was increased in cases with HDP compared with controls (median [interquartile range]: 1968 [1644-2332] pg/mL vs. 1700 [1446-2056] pg/mL, p=0.002).	RESULTS
+Participants were categorized into quartiles of serum soluble corin distributed in controls.	RESULTS
+Compared with the lowest quartile, participants in the highest quartile had a significantly increased risk for HDP (odds ratio [OR], 4.21; 95% confidence interval [95% CI], 1.31-13.53) after multivariate adjustment.	RESULTS
+Nevertheless, we did not find a significantly increased risk for participants in the second (OR, 1.75; 95% CI, 0.44-7.02) and third (OR, 2.80; 95% CI, 0.70-11.18) quartiles.	RESULTS
+Then the first three quartiles were merged as a reference group to calculate the OR of HDP for participants in the highest quartile and we found a significantly increased risk for HDP in individuals in the highest quartile (OR, 2.28, 95% CI, 1.02-5.06).	RESULTS
+Increased serum soluble corin in mid pregnancy was associated with an increased risk for HDP.	CONCLUSIONS
+Our findings suggest that increased serum soluble corin in mid pregnancy could be an indicator for HDP.	CONCLUSIONS
+
+Sexual dysfunction is a common adverse effect of antidepressants that frequently results in treatment noncompliance.	BACKGROUND
+To assess the efficacy of sildenafil citrate in men with sexual dysfunction associated with the use of selective and nonselective serotonin reuptake inhibitor (SRI) antidepressants.	OBJECTIVE
+DESIGN, SETTING, AND PATIENTS Prospective, parallel-group, randomized, double-blind, placebo-controlled trial conducted between November 1, 2000, and January 1, 2001, at 3 US university medical centers among 90 male outpatients (mean [SD] age, 45 [8] years) with major depression in remission and sexual dysfunction associated with SRI antidepressant treatment.	OBJECTIVE
+Patients were randomly assigned to take sildenafil (n = 45) or placebo (n = 45) at a flexible dose starting at 50 mg and adjustable to 100 mg before sexual activity for 6 weeks.	METHODS
+The primary outcome measure was score on the Clinical Global Impression-Sexual Function (CGI-SF); secondary measures were scores on the International Index of Erectile Function, Arizona Sexual Experience Scale, Massachusetts General Hospital-Sexual Functioning Questionnaire, and Hamilton Rating Scale for Depression (HAM-D).	METHODS
+Among the 90 randomized patients, 93% (83/89) of patients treated per protocol took at least 1 dose of study drug and 85% (76/89) completed week 6 end-point assessments with last observation carried forward analyses.	RESULTS
+At a CGI-SF score of 2 or lower, 54.5% (24/44) of sildenafil compared with 4.4% (2/45) of placebo patients were much or very much improved (P<.001).	RESULTS
+Erectile function, arousal, ejaculation, orgasm, and overall satisfaction domain measures improved significantly in sildenafil compared with placebo patients.	RESULTS
+Mean depression scores remained consistent with remission (HAM-D score < or =10) in both groups for the study duration.	RESULTS
+In our study, sildenafil effectively improved erectile function and other aspects of sexual function in men with sexual dysfunction associated with the use of SRI antidepressants.	CONCLUSIONS
+These improvements may allow patients to maintain adherence with effective antidepressant treatment.	CONCLUSIONS
+
+To investigate the role of skeletal muscle (SkM) interleukin (IL)-6 in the regulation of adipose tissue metabolism.	OBJECTIVE
+Muscle-specific IL-6 knockout (IL-6 MKO) and IL-6(loxP/loxP) (Floxed) mice were subjected to standard rodent diet (Chow), high-fat diet (HFD), or HFD in combination with exercise training (HFD ExTr) for 16 weeks.	METHODS
+Total fat mass increased (P < 0.05) in both genotypes with HFD.	RESULTS
+However, HFD IL-6 MKO mice had lower (P < 0.05) inguinal adipose tissue (iWAT) mass than HFD Floxed mice.	RESULTS
+Accordingly, iWAT glucose transporter 4 (GLUT4) protein content, 5'AMP activated protein kinase (AMPK)(Thr172) phosphorylation, and fatty acid synthase (FAS) mRNA content were lower (P < 0.05) in IL-6 MKO than Floxed mice on Chow.	RESULTS
+In addition, iWAT AMPK(Thr172) and hormone-sensitive lipase (HSL)(Ser565) phosphorylation as well as perilipin protein content was higher (P < 0.05) in HFD IL-6 MKO than HFD Floxed mice, and pyruvate dehydrogenase E1α (PDH-E1α) protein content was higher (P < 0.05) in HFD ExTr IL-6 MKO than HFD ExTr Floxed mice.	RESULTS
+These findings indicate that SkM IL-6 affects iWAT mass through regulation of glucose uptake capacity as well as lipogenic and lipolytic factors.	CONCLUSIONS
+
+AN1792 (beta-amyloid [Abeta]1-42) immunization reduces Abeta plaque burden and preserves cognitive function in APP transgenic mice.	BACKGROUND
+The authors report the results of a phase IIa immunotherapy trial of AN1792(QS-21) in patients with mild to moderate Alzheimer disease (AD) that was interrupted because of meningoencephalitis in 6% of immunized patients.	BACKGROUND
+This randomized, multicenter, placebo-controlled, double-blind trial of IM AN1792 225 microg plus the adjuvant QS-21 50 microg (300 patients) and saline (72 patients) included patients aged 50 to 85 years with probable AD, Mini-Mental State Examination (MMSE) 15 to 26.	METHODS
+Injections were planned for months 0, 1, 3, 6, 9, and 12.	METHODS
+Safety and tolerability were evaluated, and pilot efficacy (AD Assessment Scale-Cognitive Subscale [ADAS-Cog], MRI, neuropsychological test battery [NTB], CSF tau, and Abeta42) was assessed in anti-AN1792 antibody responder patients (immunoglobulin G titer > or = 1:2,200).	METHODS
+Following reports of meningoencephalitis (overall 18/300 [6%]), immunization was stopped after one (2 patients), two (274 patients), or three (24 patients) injections.	RESULTS
+Of the 300 AN1792(QS-21)-treated patients, 59 (19.7%) developed the predetermined antibody response.	RESULTS
+Double-blind assessments were maintained for 12 months.	RESULTS
+No significant differences were found between antibody responder and placebo groups for ADAS-Cog, Disability Assessment for Dementia, Clinical Dementia Rating, MMSE, or Clinical Global Impression of Change, but analyses of the z-score composite across the NTB revealed differences favoring antibody responders (0.03 +/- 0.37 vs -0.20 +/- 0.45; p = 0.020).	RESULTS
+In the small subset of subjects who had CSF examinations, CSF tau was decreased in antibody responders (n = 11) vs placebo subjects (n = 10; p < 0.001).	RESULTS
+Although interrupted, this trial provides an indication that Abeta immunotherapy may be useful in Alzheimer disease.	CONCLUSIONS
+
+Radiographic contrast agents can cause a reduction in renal function that may be due to reactive oxygen species.	BACKGROUND
+Whether the reduction can be prevented by the administration of antioxidants is unknown.	BACKGROUND
+We prospectively studied 83 patients with chronic renal insufficiency (mean [+/-SD] serum creatinine concentration, 2.4+/-1.3 mg per deciliter [216+/-116 micromol per liter]) who were undergoing computed tomography with a nonionic, low-osmolality contrast agent.	METHODS
+Patients were randomly assigned either to receive the antioxidant acetylcysteine (600 mg orally twice daily) and 0.45 percent saline intravenously, before and after administration of the contrast agent, or to receive placebo and saline.	METHODS
+Ten of the 83 patients (12 percent) had an increase of at least 0.5 mg per deciliter (44 micromol per liter) in the serum creatinine concentration 48 hours after administration of the contrast agent: 1 of the 41 patients in the acetylcysteine group (2 percent) and 9 of the 42 patients in the control group (21 percent; P=0.01; relative risk, 0.1; 95 percent confidence interval, 0.02 to 0.9).	RESULTS
+In the acetylcysteine group, the mean serum creatinine concentration decreased significantly (P<0.001), from 2.5+/-1.3 to 2.1+/-1.3 mg per deciliter (220+/-118 to 186+/-112 micromol per liter) 48 hours after the administration of the contrast medium, whereas in the control group, the mean serum creatinine concentration increased nonsignificantly (P=0.18), from 2.4+/-1.3 to 2.6+/-1.5 mg per deciliter (212+/-114 to 226+/-133 micromol per liter) (P<0.001 for the comparison between groups).	RESULTS
+Prophylactic oral administration of the antioxidant acetylcysteine, along with hydration, prevents the reduction in renal function induced by contrast agents in patients with chronic renal insufficiency.	CONCLUSIONS
+
